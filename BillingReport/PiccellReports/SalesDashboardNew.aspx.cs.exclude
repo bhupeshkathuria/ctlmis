@@ -1,0 +1,444 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.Configuration;
+using System.Configuration;
+using System.Web.UI.HtmlControls;
+using BusinessLayer;
+using System.Data;
+using BL;
+using BLCommon;
+using System.Text;
+
+public partial class SalesDashboardNew : System.Web.UI.Page
+{   
+    #region namespace
+    Property_Billing objPropertyBilling = new Property_Billing();
+    DbAccess_Billing objDbaccessBilling = new DbAccess_Billing();
+    DBAccess_Common objDbaccessCommon = new DBAccess_Common();
+    Property_Common objPropertyCommon = new Property_Common();
+    #endregion
+
+    #region dataset
+    DataSet dsBranchsale = new DataSet();
+    DataSet dsBranchsaledetails = new DataSet();
+    int totalsales = 0;
+    int totalsaledetails = 0;
+    int totalwithbundle = 0;
+    int totalwithoutbundle = 0;
+    int totalcountrywisesale = 0;
+    int totalcountrywithbundle = 0;
+    int totalcountrywithoutbundle = 0;
+    int totalbranchwisesalelast = 0;
+    int totalbranchwiselastwithbound = 0;
+    int totalbranchwiselastwithoutbound = 0;
+    #endregion
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        #region monthdropdown
+        CheckBoxListExCtrl1.Attributes.Add("onclick", "readCheckBoxList('" +
+                   CheckBoxListExCtrl1.ClientID + "','" + MultiSelectDDL.ClientID + "','" +
+                   hf_checkBoxText.ClientID + "','" +
+                   hf_checkBoxValue.ClientID + "','" + hf_checkBoxSelIndex.ClientID + "');");
+
+        MultiSelectDDL.Attributes.Add("onmousemove", "showIE6Tooltip();");
+        MultiSelectDDL.Attributes.Add("onmouseout", "hideIE6Tooltip();");
+
+        if (!string.IsNullOrEmpty(hf_checkBoxValue.Value))
+        {
+            SetDropDownListText(hf_checkBoxValue.Value);
+        }
+
+        if (!string.IsNullOrEmpty(hf_checkBoxText.Value))
+        {
+            SetToolTip(hf_checkBoxText.Value);
+        }
+        #endregion
+
+        if (!IsPostBack)
+        {
+            BindYear();
+        }
+
+    }
+
+    #region user defined function
+    internal void SetDropDownListText(string txt)
+    {
+        MultiSelectDDL.Items.Clear();
+        MultiSelectDDL.Items.Add(new ListItem(txt));
+    }
+    internal void SetToolTip(string title)
+    {
+        MultiSelectDDL.Attributes.Add("title", title);
+        MultiSelectDDL.ToolTip = title;
+    }
+    protected void ShowMessage(string msgType, string Msg)
+    {
+        panelError.Visible = true;
+        lblErrorMsg.Text = Msg;
+        switch (msgType.ToUpper())
+        {
+            case "RED":
+                imgmsg.ImageUrl = "~/PiccellReport/images/Error_red.png";
+                lblErrorMsg.CssClass = "errorMsgRed";
+                break;
+            case "GREEN":
+                imgmsg.ImageUrl = "~/PiccellReport/images/Saved_green.png";
+                lblErrorMsg.CssClass = "errorMsgGreen";
+                break;
+        }
+    }
+    private void BindYear()
+    {
+        try
+        {
+            Dictionary<string, string> list = new Dictionary<string, string>();
+            list = Helper.BindYear();
+            ddlYear.DataSource = list;
+            ddlYear.DataTextField = "value";
+            ddlYear.DataValueField = "key";
+            ddlYear.DataBind();
+            ddlYear.Items.Insert(0, new ListItem("-Select-", "0"));
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindBranchSales()
+    {
+        try
+        {
+            //get multiple month
+            StringBuilder sb = new StringBuilder(string.Empty);
+            sb.Append(hf_checkBoxValue.Value);
+            string month = sb.ToString();
+            string[] _month_arr = month.Split(',');
+            //end
+
+            if (month.Length > 0)
+            {
+
+                month = "(" + month + ")";
+            }
+            else
+            {
+                month = "0";
+            }
+
+            int years = Convert.ToInt32(ddlYear.SelectedValue);
+       
+            objPropertyBilling.Years = years;
+            objPropertyBilling.MonthsMultiple = month;
+
+            dsBranchsale = objDbaccessBilling.GetSaleDashboardBranchwisenew(objPropertyBilling);
+            if (dsBranchsale != null)
+            {
+                grdBranchSales.DataSource = dsBranchsale;
+                grdBranchSales.DataBind();
+            }
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindBranchSalesDetails(int months)
+    {
+        try
+        {
+            //get multiple month
+           
+
+            int years = Convert.ToInt32(ddlYear.SelectedValue);
+
+            objPropertyBilling.Years = years;
+            objPropertyBilling.Months = months;
+            if (months != 0)
+                ViewState["months"] = months;
+            else
+                ViewState["months"] = null;
+            if (ddlreporttype.SelectedValue == "1")
+            {
+                dsBranchsale = objDbaccessBilling.GetSaleDashboardBranchwiseDetailsnew(objPropertyBilling);
+                if (dsBranchsale != null)
+                {
+                    DivBranchSaledetails.Visible = true;
+                    DivCountrySaledetails.Visible = false;
+                    grdSaleDetails.DataSource = dsBranchsale;
+                    grdSaleDetails.DataBind();
+                }
+                else
+                {
+                    grdSaleDetails.DataSource = null;
+                    grdSaleDetails.DataBind();
+                }
+            }
+
+            if (ddlreporttype.SelectedValue == "2")
+            {
+                dsBranchsale = objDbaccessBilling.GetSaleDashboardCountrywiseDetailsnew(objPropertyBilling);
+                if (dsBranchsale != null)
+                {
+                    DivBranchSaledetails.Visible = false;
+                    DivCountrySaledetails.Visible = true;
+                    grdcountrySaleDetails.DataSource = dsBranchsale;
+                    grdcountrySaleDetails.DataBind();
+                }
+                else
+                {
+                    grdcountrySaleDetails.DataSource = null;
+                    grdcountrySaleDetails.DataBind();
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindBranchSalesDetailslast(int languageid,int months)
+    {
+        try
+        {
+            //get multiple month
+
+
+            int years = Convert.ToInt32(ddlYear.SelectedValue);
+
+            objPropertyBilling.Years = years;
+            objPropertyBilling.Months = months;
+            objPropertyBilling.LanguageId = languageid;
+           
+
+            
+                dsBranchsale = objDbaccessBilling.GetSaleDashboardBranchwiseDetailsnewlast(objPropertyBilling);
+                if (dsBranchsale != null)
+                {
+                    DivBranchSaledetailslast.Visible = true;
+                   
+                    grdSaleDetailslast.DataSource = dsBranchsale;
+                    grdSaleDetailslast.DataBind();
+                }
+                else
+                {
+                    grdSaleDetailslast.DataSource = null;
+                    grdSaleDetailslast.DataBind();
+                }
+            
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindCountrySalesDetailslast(int countryidid,int providerid ,int months)
+    {
+        try
+        {
+            //get multiple month
+
+
+            int years = Convert.ToInt32(ddlYear.SelectedValue);
+
+            objPropertyBilling.Years = years;
+            objPropertyBilling.Months = months;
+            objPropertyBilling.CountryId = countryidid;
+            objPropertyBilling.ProviderId = providerid;
+
+
+
+            dsBranchsale = objDbaccessBilling.GetSaleDashboardCountrywiseDetailsnewlast(objPropertyBilling);
+            if (dsBranchsale != null)
+            {
+                DivBranchSaledetailslast.Visible = true;
+
+                grdSaleDetailslast.DataSource = dsBranchsale;
+                grdSaleDetailslast.DataBind();
+            }
+            else
+            {
+                grdSaleDetailslast.DataSource = null;
+                grdSaleDetailslast.DataBind();
+            }
+
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    #endregion
+
+    #region events
+    protected void btnShow_Click(object sender, EventArgs e)
+    {
+        
+            BindBranchSales();
+            divbranchsales.Visible = true;
+           
+            DivBranchSaledetails.Visible = false;
+            panelError.Visible = false;
+            DivCountrySaledetails.Visible = false;
+            DivBranchSaledetailslast.Visible = false;
+      
+       
+    }
+    protected void grdBranchSales_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+
+            LinkButton lnktotalSales = (LinkButton)e.Row.FindControl("lnktotalSales");
+            totalsales = totalsales + Convert.ToInt32(lnktotalSales.Text);
+        }
+
+        if (e.Row.RowType == DataControlRowType.Footer)
+        {
+           
+            LinkButton lnkFinalTotal = (LinkButton)e.Row.FindControl("lnkFinalTotal");
+          
+            lnkFinalTotal.Text = Convert.ToString(totalsales);
+        }
+    }
+    protected void grdBranchSales_RowCommand(object sender, GridViewCommandEventArgs e)
+    {
+        DivBranchSaledetails.Visible = false;
+        panelError.Visible = false;
+        DivCountrySaledetails.Visible = false;
+        DivBranchSaledetailslast.Visible = false;
+        if (e.CommandName == "ShowSale")
+        {
+              Control ctrl = e.CommandSource as Control;
+              if (ctrl != null)
+              {
+                  GridViewRow row = ctrl.Parent.NamingContainer as GridViewRow;
+                  HiddenField hdnmonths = (HiddenField)row.FindControl("hdnmonths");
+
+                  int languageid = Convert.ToInt32(e.CommandArgument);
+                  int months = Convert.ToInt32(hdnmonths.Value);
+
+                 
+                  BindBranchSalesDetails(months);
+
+              }
+        }
+
+        if (e.CommandName == "ShowSaleall")
+        {
+            BindBranchSalesDetails(0);
+        }
+    }
+    protected void grdSaleDetails_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+
+            Label lbltotalsales = (Label)e.Row.FindControl("lbltotalsales");
+            Label lblWithbundle = (Label)e.Row.FindControl("lblWithbundle");
+            Label lblWithoutbundle = (Label)e.Row.FindControl("lblWithoutbundle");
+            totalsaledetails = totalsaledetails + Convert.ToInt32(lbltotalsales.Text);
+            totalwithbundle = totalwithbundle + Convert.ToInt32(lblWithbundle.Text);
+            totalwithoutbundle = totalwithoutbundle + Convert.ToInt32(lblWithoutbundle.Text);
+        }
+
+        if (e.Row.RowType == DataControlRowType.Footer)
+        {
+            Label lblFinalTotal = (Label)e.Row.FindControl("lblFinalTotal");
+            Label lblFinalwithbundleTotal = (Label)e.Row.FindControl("lblFinalwithbundleTotal");
+            Label lblFinalwithoutbundleTotal = (Label)e.Row.FindControl("lblFinalwithoutbundleTotal");
+            lblFinalTotal.Text = Convert.ToString(totalsaledetails);
+            lblFinalwithbundleTotal.Text = Convert.ToString(totalwithbundle);
+            lblFinalwithoutbundleTotal.Text = Convert.ToString(totalwithoutbundle);
+        }
+    }
+    protected void grdcountrySaleDetails_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+
+            Label lbltotalsales = (Label)e.Row.FindControl("lbltotalsales");
+            Label lblWithbundle = (Label)e.Row.FindControl("lblWithbundle");
+            Label lblWithoutbundle = (Label)e.Row.FindControl("lblWithoutbundle");
+             totalcountrywisesale = totalcountrywisesale + Convert.ToInt32(lbltotalsales.Text);
+            totalcountrywithbundle = totalcountrywithbundle + Convert.ToInt32(lblWithbundle.Text);
+            totalcountrywithoutbundle = totalcountrywithoutbundle + Convert.ToInt32(lblWithoutbundle.Text);
+        }
+
+        if (e.Row.RowType == DataControlRowType.Footer)
+        {
+            Label lblFinalTotal = (Label)e.Row.FindControl("lblFinalTotal");
+            Label lblFinalwithbundleTotal = (Label)e.Row.FindControl("lblFinalwithbundleTotal");
+            Label lblFinalwithoutbundleTotal = (Label)e.Row.FindControl("lblFinalwithoutbundleTotal");
+            lblFinalTotal.Text = Convert.ToString(totalcountrywisesale);
+            lblFinalwithbundleTotal.Text = Convert.ToString(totalcountrywithbundle);
+            lblFinalwithoutbundleTotal.Text = Convert.ToString(totalcountrywithoutbundle);
+        }
+    }
+    protected void grdSaleDetailslast_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+
+            Label lbltotalsales = (Label)e.Row.FindControl("lbltotalsales");
+            Label lblWithbundle = (Label)e.Row.FindControl("lblWithbundle");
+            Label lblWithoutbundle = (Label)e.Row.FindControl("lblWithoutbundle");
+            totalbranchwisesalelast = totalbranchwisesalelast + Convert.ToInt32(lbltotalsales.Text);
+            totalbranchwiselastwithbound = totalbranchwiselastwithbound + Convert.ToInt32(lblWithbundle.Text);
+            totalbranchwiselastwithoutbound = totalbranchwiselastwithoutbound + Convert.ToInt32(lblWithoutbundle.Text);
+        }
+
+        if (e.Row.RowType == DataControlRowType.Footer)
+        {
+            Label lblFinalTotal = (Label)e.Row.FindControl("lblFinalTotal");
+            Label lblFinalwithbundleTotal = (Label)e.Row.FindControl("lblFinalwithbundleTotal");
+            Label lblFinalwithoutbundleTotal = (Label)e.Row.FindControl("lblFinalwithoutbundleTotal");
+            lblFinalTotal.Text = Convert.ToString(totalbranchwisesalelast);
+            lblFinalwithbundleTotal.Text = Convert.ToString(totalbranchwiselastwithbound);
+            lblFinalwithoutbundleTotal.Text = Convert.ToString(totalbranchwiselastwithoutbound);
+        }
+    }
+    protected void grdSaleDetails_RowCommand(object sender, GridViewCommandEventArgs e)
+    {
+        if (e.CommandName == "Showlastsale")
+        {
+             Control ctrl = e.CommandSource as Control;
+             if (ctrl != null)
+             {
+                 GridViewRow row = ctrl.Parent.NamingContainer as GridViewRow;
+                 HiddenField hdnmonth = (HiddenField)row.FindControl("hdnmonth");
+                 int languageid = Convert.ToInt32(e.CommandArgument);
+                 int months = Convert.ToInt32(hdnmonth.Value);
+                 BindBranchSalesDetailslast(languageid, months);
+             }
+        }
+    }
+    protected void grdcountrySaleDetails_RowCommand(object sender, GridViewCommandEventArgs e)
+    {
+        if (e.CommandName == "showcountrysalelast")
+        {
+            Control ctrl = e.CommandSource as Control;
+            if (ctrl != null)
+            {
+                GridViewRow row = ctrl.Parent.NamingContainer as GridViewRow;
+                HiddenField hdnproviderid = (HiddenField)row.FindControl("hdnproviderid");
+                HiddenField hdnmonth = (HiddenField)row.FindControl("hdnmonth");
+                int countryid = Convert.ToInt32(e.CommandArgument);
+                int providerid = Convert.ToInt32(hdnproviderid.Value);
+                int months = Convert.ToInt32(hdnmonth.Value);
+                BindCountrySalesDetailslast(countryid,providerid, months);
+            }
+        }
+    }
+    #endregion
+}

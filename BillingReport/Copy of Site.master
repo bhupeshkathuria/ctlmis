@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Copy of Site.Master.cs" Inherits="SiteMaster" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="Css/Main.css" rel="stylesheet" type="text/css" />
+    <link href="Css/style.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <script src="JS/jquery.min.js" type="text/javascript"></script>
+    <script src="JS/site.js" type="text/javascript"></script>
+    <link href="Css/pop_up.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <telerik:RadScriptManager ID="RadScriptManager1" runat="server">
+    </telerik:RadScriptManager>
+    <div class="outer">
+        <div class="header-area">
+            <div style="width: 90%">
+                <div style="float: left; padding-right: 10px">
+                    <asp:Image ID="logo" runat="server" ImageUrl="~/Images/logo.jpg" Height="80px" />
+                </div>
+                <div style="text-align: center; vertical-align: middle; padding-top: 20px">
+                    <h2 id="header1" runat="server">
+                        Welcome to Clay Billing report
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div style="padding-left: 5px; width: 100%">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td style="width: 100%;">
+                       <%-- <telerik:RadMenu ID="RadMenu1" runat="server">
+                            
+                        </telerik:RadMenu>--%>
+                         <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu"  EnableViewState="false"
+            IncludeStyleBlock="false" Orientation="Horizontal">       
+         
+           
+        </asp:Menu>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="page">
+        <div class="main" style="background-color: White">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+    </form>
+</body>
+</html>

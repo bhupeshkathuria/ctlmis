@@ -1,0 +1,211 @@
+﻿html,body,form
+{
+    width:100%;
+    padding:0 0 0 0;
+    margin:0 0 0 0;
+    height:100%;
+    border:none;
+    color: Black;
+	font: normal 12px Arial,Verdana,sans-serif;
+}
+
+.txt_12px
+{
+    font-size:12px;
+}
+.txt_bold
+{
+    font-weight:bold;
+}
+.pad_right_10px
+{
+    padding-right:10px;
+}
+.pad_left_10px
+{
+    padding-left:10px;
+}
+.pad_bottom_10px
+{
+    padding-bottom:10px;
+}
+.pad_top_10px
+{
+    padding-top:10px;
+}
+
+.wrapper
+{
+    width:100%;
+    padding:0 0 0 0;
+    margin:0 0 0 0;
+    height:100%;
+    border:none;
+    
+}
+
+.module1
+{
+    background-color: #dff3ff;
+    border: 0px solid #c6e1f2;
+    width:100%;
+    height:100%;
+}
+        
+.qsfexHeader
+{
+	background: transparent url('header-bg.gif') no-repeat 0 0;
+	height: 27px;
+	text-indent: 9px;
+	color: #15428b;
+	font: bold 12px/27px Arial,Verdana,sans-serif;
+	width:100%;
+}
+
+.Header
+{
+	background: transparent url('header_main.gif') repeat-x 0 0;
+	height: 28px;
+	color: #15428b;
+	font: bold 11px Arial,Verdana,sans-serif;
+	z-index:1;
+}
+
+.Header_text
+{
+	height: 20px;
+	color: #15428b;
+	font: bold 11px Arial,Verdana,sans-serif;
+	z-index:999;
+	background-color:#e0e5f5;
+	border-bottom:solid 1px #6593cf;
+}
+
+.Form_Header
+{
+	height: 28px;
+	text-indent: 9px;
+	color: #15428b;
+	font: bold 11px Arial,Verdana,sans-serif;
+	border-bottom:solid 1px gray
+}
+
+#qsfexSeparator
+{
+	background: transparent url('separator-bg.gif') no-repeat 0 0;
+	height: 7px;
+	line-height: 7px;
+	font-size: 0;
+	width: 200px;
+}
+
+.PageBG
+{
+    background-color: white;
+    border: 1px solid gray;
+    width:100%;
+    height:100%;
+}
+
+.red
+{
+    color:Red;
+}
+
+
+.GridPager div
+{
+    display: inline;
+}
+.GridPager div:first-child
+{
+    float: left;
+}
+.GridPager a
+{
+    margin: 0 2px;
+}
+.GridPager div+div
+{
+    float: right;
+}
+
+.myPageView
+{
+	/*background: transparent url(images/corporate.jpg) no-repeat top left;*/
+	background-color:White;
+	height:290px;
+	width:660px;
+	border:solid 1px gray;
+	padding:10px 10px 10px 10px;
+	color:Black;
+}
+.Header_static
+{
+	height: 20px;
+	color: #15428b;
+	background-color:#e0e5f5;
+	font: bold 11px Arial,Verdana,sans-serif;
+	border-bottom:solid 1px #6593cf;
+	z-index:100;
+}
+.Header_static_text
+{
+    z-index:999;
+	color: black;
+	font: bold 11px Arial,Verdana,sans-serif;
+	top: 10px; /* 30 pixels from the top of the page */
+	left: 10px; /* 80 pixels from the left hand side */
+	width: 100%; /* Always set a width for absolute positioned block level elements, such as divs */
+}
+ .griditem
+{
+	font-weight: normal;
+	font-size: 8pt;
+	height:20px;
+	color: #000000;
+	font-style: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #f4f4f4;
+	text-align:center;
+}
+.gridhd
+{
+	font-weight: bold;
+	height:25px;
+	font-size: 10px;
+	color: #ffffff;
+	font-style: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: Gray;
+	text-align:center;
+}
+
+.gridhd a,.gridhd a:visited,.gridhd a:active
+{
+	font: 11px verdana;
+    color: black;
+    font-weight:normal;
+    text-decoration: none;
+}
+
+.gridhd a:hover
+{
+    text-decoration:underline;
+    color: #e3e3e3;
+}
+
+.griditemalt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	height:20px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #e1e7ea;
+	color:#000000; 
+	text-align:center;
+}
+.visible
+{
+	visibility:hidden;
+}

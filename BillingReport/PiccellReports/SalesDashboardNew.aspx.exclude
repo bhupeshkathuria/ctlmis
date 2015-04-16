@@ -1,0 +1,383 @@
+﻿<%@ Page Title="Sales Dashboard" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+    CodeFile="SalesDashboardNew.aspx.cs" Inherits="SalesDashboardNew" %>
+
+<%@ Register Assembly="CheckBoxListExCtrl" Namespace="CheckBoxListExCtrl" TagPrefix="cc2" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
+    <style type="text/css">
+        #mydiv
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url(prepaidreport/transparent.png) repeat; /* for demonstration */
+        }
+        .ajax-loader
+        {
+            position: absolute;
+            left: 45%;
+            top: 40%;
+            z-index: 200;
+            margin-left: -32px; /* -1 * image width / 2 */
+            margin-top: -32px; /* -1 * image height / 2 */
+            display: block;
+        }
+        .grd-header
+        {
+            height: 22px;
+        }
+        .grd-header th
+        {
+            height: 22px;
+            background: url(image/gradient.png) repeat-x !important;
+            color: #333 !important;
+        }
+    </style>
+    <link rel="stylesheet" href="../Css/colour.css" type="text/css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="../JS/MultipleSelectionDDLCSS.css" />
+    <%--  <link rel="stylesheet" type="text/css" href="../Css/style.css" />--%>
+    <style>
+        .force-left
+        {
+            text-align: left !important;
+        }
+        .force-center
+        {
+            text-align: center !important;
+        }
+        .force-right
+        {
+            text-align: right !important;
+        }
+        .force-right-spn
+        {
+            float: right !important;
+        }
+    </style>
+    <script type="text/javascript">
+        function JSFunctionValidate() {
+            if (document.getElementById('<%=ddlYear.ClientID%>').selectedIndex == 0) {
+                alert("Please select year!!");
+                return false;
+
+            }
+
+            return true;
+        }
+
+    </script>
+    <script type="text/javascript" src="../JS/MultipleSelectionDDLJS.js"></script>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+        <ContentTemplate>
+            <asp:UpdateProgress ID="upbar1" runat="server" AssociatedUpdatePanelID="UpdatePanel1">
+                <ProgressTemplate>
+                    <div id="mydiv">
+                        <img src="../Images/Loader.gif" width="100" height="100" class="ajax-loader" />Please
+                        wait...
+                    </div>
+                </ProgressTemplate>
+            </asp:UpdateProgress>
+            <div style="width: 100%; padding-top: 5px;">
+                <table cellpadding="3" cellspacing="0" style="border: 1px solid Black; width: 70%;">
+                    <tr>
+                        <td>
+                            Year
+                        </td>
+                        <td>
+                            <asp:DropDownList ID="ddlYear" runat="server" Width="150px">
+                            </asp:DropDownList>
+                        </td>
+                        <td>
+                            Month
+                        </td>
+                        <td>
+                            <div>
+                                <cc1:HoverMenuExtender ID="HoverMenuExtender1" runat="server" TargetControlID="MultiSelectDDL"
+                                    PopupControlID="PanelPopUp" PopupPosition="bottom" OffsetX="6" PopDelay="25"
+                                    HoverCssClass="popupHover">
+                                </cc1:HoverMenuExtender>
+                                <asp:DropDownList ID="MultiSelectDDL" TabIndex="0" CssClass="ddlMenu regularText"
+                                    Style="width: 150px!important" runat="server">
+                                    <asp:ListItem Value="all">All</asp:ListItem>
+                                </asp:DropDownList>
+                                <asp:HiddenField ID="hf_checkBoxValue" runat="server" />
+                                <asp:HiddenField ID="hf_checkBoxText" runat="server" />
+                                <asp:HiddenField ID="hf_checkBoxSelIndex" runat="server" />
+                                <asp:Panel ID="PanelPopUp" CssClass="popupMenu" runat="server">
+                                    <cc2:CheckBoxListExCtrl ID="CheckBoxListExCtrl1" CssClass="regularText" runat="server">
+                                        <asp:ListItem Text="January" Value="1"></asp:ListItem>
+                                        <asp:ListItem Text="February " Value="2"></asp:ListItem>
+                                        <asp:ListItem Text="March" Value="3"></asp:ListItem>
+                                        <asp:ListItem Text="April" Value="4"></asp:ListItem>
+                                        <asp:ListItem Text="May" Value="5"></asp:ListItem>
+                                        <asp:ListItem Text="June" Value="6"></asp:ListItem>
+                                        <asp:ListItem Text="July" Value="7"></asp:ListItem>
+                                        <asp:ListItem Text="August" Value="8"></asp:ListItem>
+                                        <asp:ListItem Text="September" Value="9"></asp:ListItem>
+                                        <asp:ListItem Text="October" Value="10"></asp:ListItem>
+                                        <asp:ListItem Text="November" Value="11"></asp:ListItem>
+                                        <asp:ListItem Text="December" Value="12"></asp:ListItem>
+                                    </cc2:CheckBoxListExCtrl>
+                                </asp:Panel>
+                            </div>
+                        </td>
+                        <td>
+                            Report Type
+                        </td>
+                        <td>
+                            <asp:DropDownList ID="ddlreporttype" runat="server">
+                                <asp:ListItem Text="By Branch" Value="1"></asp:ListItem>
+                                <asp:ListItem Text="By Country" Value="2"></asp:ListItem>
+                            </asp:DropDownList>
+                        </td>
+                        <td>
+                            <asp:Button ID="btnShow" runat="server" Text="Display" OnClientClick="return JSFunctionValidate();"
+                                OnClick="btnShow_Click" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="9">
+                            <asp:Panel ID="panelError" runat="server" Visible="false">
+                                <table cellpadding="2" cellspacing="0" width="80%" border="0">
+                                    <tr>
+                                        <td align="right">
+                                            <asp:Image ID="imgmsg" runat="server" Height="36" Width="36" />
+                                        </td>
+                                        <td align="left" style="height: 36px; vertical-align: top; padding-top: 7px;">
+                                            <asp:Label ID="lblErrorMsg" runat="server"></asp:Label>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </asp:Panel>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                <div align="left" id="divbranchsales" runat="server" style="width: 50%;" visible="false">
+                    <asp:GridView ID="grdBranchSales" runat="server" AutoGenerateColumns="false" Width="60%"
+                        ShowHeaderWhenEmpty="True" EmptyDataText="No record(s) found!" ShowFooter="true"
+                        FooterStyle-Font-Bold="true" OnRowDataBound="grdBranchSales_RowDataBound" OnRowCommand="grdBranchSales_RowCommand">
+                        <Columns>
+                            <asp:TemplateField HeaderText="Sno." HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblserialno" runat="server" Text='<%#Container.DataItemIndex + 1 %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Month Year" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblmonthyear" runat="server" Text='<%#Eval("salemonth") %>'></asp:Label>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>Total:</b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Total Sale" HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:HiddenField ID="hdnmonths" runat="server" Value='<%#Eval("months") %>' />
+                                    <asp:LinkButton ID="lnktotalSales" runat="server" Text='<%#Eval("totalsale") %>'
+                                        CommandName="ShowSale" CommandArgument='<%#Eval("months") %>'></asp:LinkButton>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:LinkButton ID="lnkFinalTotal" runat="server" CommandName="ShowSaleall"></asp:LinkButton>
+                                    </b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                        </Columns>
+                    </asp:GridView>
+                </div>
+                <br />
+                <div id="DivBranchSaledetails" align="left" runat="server" style="width: 30%; float: left"
+                    visible="false">
+                    <asp:GridView ID="grdSaleDetails" runat="server" AutoGenerateColumns="false" Width="100%"
+                        ShowHeaderWhenEmpty="True" EmptyDataText="No record(s) found!" ShowFooter="true"
+                        FooterStyle-Font-Bold="true" OnRowDataBound="grdSaleDetails_RowDataBound" OnRowCommand="grdSaleDetails_RowCommand">
+                        <Columns>
+                            <asp:TemplateField HeaderText="Sno." HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblserialno" runat="server" Text='<%#Container.DataItemIndex + 1 %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Month" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblmonthname" runat="server" Text='<%#Eval("monthsname") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Branch" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblBranchname" runat="server" Text='<%#Eval("branch") %>'></asp:Label>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>Total:</b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Total Sale" HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                  <asp:HiddenField ID="hdnmonth" runat="server" Value='<%#Eval("months") %>' />
+                                    <asp:Label ID="lbltotalsales" runat="server" Text='<%#Eval("totalsale") %>' Visible="false"> </asp:Label>
+                                    <asp:LinkButton ID="lnktotalsales" runat="server" Text='<%#Eval("totalsale") %>'
+                                        CommandName="Showlastsale" CommandArgument='<%#Eval("languageid") %>'></asp:LinkButton>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                HeaderText="With Bundle" FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblWithbundle" runat="server" Text='<%#Eval("withbundle") %>'></asp:Label></ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalwithbundleTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                HeaderText="Without Bundle" FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblWithoutbundle" runat="server" Text='<%#Eval("withoutbundle") %>'></asp:Label></ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalwithoutbundleTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                        </Columns>
+                    </asp:GridView>
+                </div> 
+                <div id="DivCountrySaledetails" align="left" runat="server" style="width: 56%;float: left" visible="false">
+                    <asp:GridView ID="grdcountrySaleDetails" runat="server" AutoGenerateColumns="false"
+                        Width="70%" ShowHeaderWhenEmpty="True" EmptyDataText="No record(s) found!" ShowFooter="true"
+                        FooterStyle-Font-Bold="true" OnRowDataBound="grdcountrySaleDetails_RowDataBound"
+                        OnRowCommand="grdcountrySaleDetails_RowCommand">
+                        <Columns>
+                            <asp:TemplateField HeaderText="Sno." HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblserialno" runat="server" Text='<%#Container.DataItemIndex + 1 %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Month" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblmonthname" runat="server" Text='<%#Eval("monthsname") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Country" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblcountryname" runat="server" Text='<%#Eval("countryname") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Provider" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblProvider" runat="server" Text='<%#Eval("providername") %>'></asp:Label>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>Total:</b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Total Sale" HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lbltotalsales" runat="server" Text='<%#Eval("totalsale") %>' Visible="false"> </asp:Label>
+                                    <asp:HiddenField ID="hdnproviderid" runat="server" Value='<%#Eval("providerid") %>' />
+                                      <asp:HiddenField ID="hdnmonth" runat="server" Value='<%#Eval("months") %>' />
+                                    <asp:LinkButton ID="lnktotalsales" runat="server" Text='<%#Eval("totalsale") %>'
+                                        CommandArgument='<%#Eval("countryid") %>' CommandName="showcountrysalelast"></asp:LinkButton>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                HeaderText="With Bundle" FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblWithbundle" runat="server" Text='<%#Eval("withbundle") %>'></asp:Label></ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalwithbundleTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                HeaderText="Without Bundle" FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblWithoutbundle" runat="server" Text='<%#Eval("withoutbundle") %>'></asp:Label></ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalwithoutbundleTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                        </Columns>
+                    </asp:GridView>
+                </div>
+              
+                <div id="DivBranchSaledetailslast" align="left" runat="server" style="width: 40%;
+                    float: left; padding-left: 16px;" visible="false">
+                    <asp:GridView ID="grdSaleDetailslast" runat="server" AutoGenerateColumns="false"
+                        Width="100%" ShowHeaderWhenEmpty="True" EmptyDataText="No record(s) found!" ShowFooter="true"
+                        FooterStyle-Font-Bold="true" OnRowDataBound="grdSaleDetailslast_RowDataBound">
+                        <Columns>
+                            <asp:TemplateField HeaderText="Sno." HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblserialno" runat="server" Text='<%#Container.DataItemIndex + 1 %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Branch" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblBranchname" runat="server" Text='<%#Eval("branch") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Country" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblcountryname" runat="server" Text='<%#Eval("countryname") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Provider" HeaderStyle-CssClass="force-left">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblprovidername" runat="server" Text='<%#Eval("providername") %>'></asp:Label>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>Total:</b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Total Sale" HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lbltotalsales" runat="server" Text='<%#Eval("totalsale") %>'> </asp:Label>
+                                </ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                HeaderText="With Bundle" FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblWithbundle" runat="server" Text='<%#Eval("withbundle") %>'></asp:Label></ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalwithbundleTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderStyle-CssClass="force-right" ItemStyle-CssClass="force-right"
+                                HeaderText="Without Bundle" FooterStyle-CssClass="force-right">
+                                <ItemTemplate>
+                                    <asp:Label ID="lblWithoutbundle" runat="server" Text='<%#Eval("withoutbundle") %>'></asp:Label></ItemTemplate>
+                                <FooterTemplate>
+                                    <b>
+                                        <asp:Label ID="lblFinalwithoutbundleTotal" runat="server"></asp:Label></b>
+                                </FooterTemplate>
+                            </asp:TemplateField>
+                        </Columns>
+                    </asp:GridView>
+                </div>
+                <br />
+                
+            </div>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+</asp:Content>

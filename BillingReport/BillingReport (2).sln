@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BillingReport", ".", "{58AFC198-D775-46A2-8B49-160E0E214137}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{17984DAD-7729-4677-82CD-3090D2745D81}|DalClayBilling.dll;{2018F598-D312-426F-A8EE-3F799F580840}|Clay.Sale.Bll.dll;{8F1A0742-1012-496D-94B6-47C46DCD4A51}|dal.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/BillingReport"
+		Debug.AspNetCompiler.PhysicalPath = "..\BillingReport\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\BillingReport\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/BillingReport"
+		Release.AspNetCompiler.PhysicalPath = "..\BillingReport\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\BillingReport\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51375"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clay.Invoice.Bll", "..\Clay.Invoice.Bll\Clay.Invoice.Bll.csproj", "{5E97F322-8DF5-46DC-AA96-C932BE6202BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clay.Sale.Bll", "..\Clay.Sale.Bll\Clay.Sale.Bll.csproj", "{2018F598-D312-426F-A8EE-3F799F580840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClayBillingLibrary", "..\ClayBillingLibrary\ClayBillingLibrary\ClayBillingLibrary.csproj", "{97F2CE6A-2509-46D4-892D-1023764AB88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalClayBilling", "..\DalClayBilling\DalClayBilling\DalClayBilling.csproj", "{17984DAD-7729-4677-82CD-3090D2745D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dal", "..\Data Access Layer\dal\dal.csproj", "{8F1A0742-1012-496D-94B6-47C46DCD4A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AFC198-D775-46A2-8B49-160E0E214137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AFC198-D775-46A2-8B49-160E0E214137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AFC198-D775-46A2-8B49-160E0E214137}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AFC198-D775-46A2-8B49-160E0E214137}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5E97F322-8DF5-46DC-AA96-C932BE6202BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E97F322-8DF5-46DC-AA96-C932BE6202BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E97F322-8DF5-46DC-AA96-C932BE6202BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E97F322-8DF5-46DC-AA96-C932BE6202BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2018F598-D312-426F-A8EE-3F799F580840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2018F598-D312-426F-A8EE-3F799F580840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2018F598-D312-426F-A8EE-3F799F580840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2018F598-D312-426F-A8EE-3F799F580840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F2CE6A-2509-46D4-892D-1023764AB88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F2CE6A-2509-46D4-892D-1023764AB88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F2CE6A-2509-46D4-892D-1023764AB88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F2CE6A-2509-46D4-892D-1023764AB88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17984DAD-7729-4677-82CD-3090D2745D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17984DAD-7729-4677-82CD-3090D2745D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17984DAD-7729-4677-82CD-3090D2745D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17984DAD-7729-4677-82CD-3090D2745D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1A0742-1012-496D-94B6-47C46DCD4A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1A0742-1012-496D-94B6-47C46DCD4A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1A0742-1012-496D-94B6-47C46DCD4A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1A0742-1012-496D-94B6-47C46DCD4A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

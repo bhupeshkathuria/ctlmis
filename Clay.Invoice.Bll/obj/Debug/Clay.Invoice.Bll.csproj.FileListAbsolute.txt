@@ -1,0 +1,49 @@
+E:\JayApllication\ClayBillingReportWeb\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+E:\JayApllication\ClayBillingReportWeb\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+E:\JayApllication\ClayBillingReportWeb\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\JayApllication\ClayBillingReportWeb\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+E:\JayApllication\ClayBillingReportWeb\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\bin\Debug\MySql.Data.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Invoice.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\MySql.Data.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\bin\Debug\dal.dll
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\bin\Debug\dal.pdb
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+E:\SVN Project\CTLMIS\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb

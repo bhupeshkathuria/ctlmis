@@ -1,0 +1,341 @@
+﻿<%@ Page Title="Revenue Report" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="RevenueReports.aspx.cs" Inherits="PiccellReports_RevenueReports" %>
+<%@ Register Assembly="CheckBoxListExCtrl" Namespace="CheckBoxListExCtrl" TagPrefix="cc2" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
+    <style type="text/css">
+        #mydiv
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url(prepaidreport/transparent.png) repeat; /* for demonstration */
+        }
+        .ajax-loader
+        {
+            position: absolute;
+            left: 45%;
+            top: 40%;
+            z-index: 200;
+            margin-left: -32px; /* -1 * image width / 2 */
+            margin-top: -32px; /* -1 * image height / 2 */
+            display: block;
+        }
+        .grd-header{ height:22px;}
+        .grd-header th{ height:22px; background: url(image/gradient.png) repeat-x !important; color:#333 !important;}
+    </style>
+    <link rel="stylesheet" href="../Css/colour.css" type="text/css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="../JS/MultipleSelectionDDLCSS.css" />
+     <link rel="stylesheet" type="text/css" href="../Css/style.css" />
+       <style>
+        .force-left
+        {
+            text-align: left !important;
+        }
+        .force-center
+        {
+            text-align: center !important;
+        }
+        .force-right
+        {
+            text-align: right !important;
+        }
+        .force-right-spn
+        {
+            float: right !important;
+        }
+    </style>
+     <script type="text/javascript">
+         function JSFunctionValidate() {
+             if (document.getElementById('<%=ddlYear.ClientID%>').selectedIndex == 0) {
+                 alert("Please select year!!");
+                 return false;
+
+             }
+
+             return true;
+         }
+
+    </script>
+      <script type="text/javascript" src="../JS/MultipleSelectionDDLJS.js"></script>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
+
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+        <ContentTemplate>
+            <asp:UpdateProgress ID="upbar1" runat="server" AssociatedUpdatePanelID="UpdatePanel1">
+            <ProgressTemplate>
+                <div id="mydiv">
+                    <img src="../Images/Loader.gif" width="100" height="100" class="ajax-loader" />Please wait...
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
+            <div style="width: 100%; padding-top: 5px;">
+            <table cellpadding="3" cellspacing="0" style="border: 1px solid Black; width: 70%;">
+            
+                        <tr>
+                            <td>
+                                Year
+                            </td>
+                            <td>
+                                <asp:DropDownList ID="ddlYear" runat="server" Width="150px">
+                                </asp:DropDownList>
+                            </td>
+                            <td>Month</td>
+                            <td>
+                            <div>
+                                <cc1:HoverMenuExtender ID="HoverMenuExtender1" runat="server" TargetControlID="MultiSelectDDL"
+                                    PopupControlID="PanelPopUp" PopupPosition="bottom" OffsetX="6" PopDelay="25"
+                                    HoverCssClass="popupHover">
+                                </cc1:HoverMenuExtender>
+                                <asp:DropDownList ID="MultiSelectDDL" TabIndex="0" CssClass="ddlMenu regularText" style="width:150px!important"
+                                    runat="server">
+                                    <asp:ListItem Value="all">All</asp:ListItem>
+                                </asp:DropDownList>
+                                <asp:HiddenField ID="hf_checkBoxValue" runat="server" />
+                                <asp:HiddenField ID="hf_checkBoxText" runat="server" />
+                                <asp:HiddenField ID="hf_checkBoxSelIndex" runat="server" />
+                                <asp:Panel ID="PanelPopUp" CssClass="popupMenu" runat="server">
+                                    <cc2:CheckBoxListExCtrl ID="CheckBoxListExCtrl1" CssClass="regularText" runat="server">
+                                        <asp:ListItem Text="January" Value="1"></asp:ListItem>
+                                        <asp:ListItem Text="February " Value="2"></asp:ListItem>
+                                        <asp:ListItem Text="March" Value="3"></asp:ListItem>
+                                        <asp:ListItem Text="April" Value="4"></asp:ListItem>
+                                        <asp:ListItem Text="May" Value="5"></asp:ListItem>
+                                        <asp:ListItem Text="June" Value="6"></asp:ListItem>
+                                        <asp:ListItem Text="July" Value="7"></asp:ListItem>
+                                        <asp:ListItem Text="August" Value="8"></asp:ListItem>
+                                        <asp:ListItem Text="September" Value="9"></asp:ListItem>
+                                        <asp:ListItem Text="October" Value="10"></asp:ListItem>
+                                        <asp:ListItem Text="November" Value="11"></asp:ListItem>
+                                        <asp:ListItem Text="December" Value="12"></asp:ListItem>
+                                    </cc2:CheckBoxListExCtrl>
+                                </asp:Panel>
+                            </div>
+                            
+                            </td>
+                            <td>
+                                Country
+                            </td>
+                            <td>
+                                <asp:DropDownList ID="ddlCountry" Width="150px" runat="server" OnSelectedIndexChanged="ddlCountry_SelectedIndexChanged"
+                                    AutoPostBack="true">
+                                </asp:DropDownList>
+                            </td>
+                            <td>
+                                Provider
+                            </td>
+                            <td>
+                                <asp:DropDownList ID="ddlProvider" runat="server" Width="150px">
+                                </asp:DropDownList>
+                            </td>
+
+                            </tr>
+                <tr>
+                  
+                    <td>Payent Type
+                    </td>
+                    <td><asp:DropDownList ID="ddlPaymentType" runat="server" Width="150px">
+                   
+                    </asp:DropDownList>
+                    </td>
+                    <td>
+                    </td>
+                    <td>  <asp:Button ID="btnShow" runat="server" Text="Display" OnClientClick="return JSFunctionValidate();"
+                                    OnClick="btnShow_Click" />
+                    </td>
+                     <td>
+                    </td>
+                    <td>
+                    </td>
+                     <td><%--Branch--%>
+                    </td>
+                    <td><asp:DropDownList ID="ddlBranch" runat="server" Width="150px" Visible="false"></asp:DropDownList>
+                    </td>
+                </tr>
+                           
+                        <tr>
+                            <td colspan="8">
+                                <asp:Panel ID="panelError" runat="server" Visible="false">
+                                    <table cellpadding="2" cellspacing="0" width="100%" border="0">
+                                        <tr>
+                                            <td align="right">
+                                                <asp:Image ID="imgmsg" runat="server" Height="36" Width="36" />
+                                            </td>
+                                            <td align="left" style="height: 36px; vertical-align: top; padding-top: 7px;">
+                                                <asp:Label ID="lblErrorMsg" runat="server"></asp:Label>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </asp:Panel>
+                            </td>
+                        </tr>
+            </table><br />
+             <div align="center"  id="mailGrid" runat="server" style="width: 100%;">
+             <asp:GridView ID="grdRevenue" runat="server" AutoGenerateColumns="false" 
+                            Width="100%" ShowHeaderWhenEmpty="True" EmptyDataText="No record(s) found!" ShowFooter="true"
+                            FooterStyle-HorizontalAlign="Right" FooterStyle-Font-Bold="true" OnRowCommand="grdRevenue_RowCommand"
+                            OnRowDataBound="grdRevenue_RowDataBound" CssClass="grd-header">
+                            <Columns>
+                            <asp:TemplateField>
+                            <HeaderTemplate>
+                            <table cellpadding="2" cellspacing="0" width="100%" style="border: 0px Solid #000;" >
+                            <tr style="height: 25px;" class="header_text">
+                               <td style="width:3%">&nbsp;</td>
+                            <td align="left" style="width: 3%"> <asp:Label ID="lblSrnoheading" runat="server" Text="SrNo."></asp:Label></td>
+                            <td align="left" style="width: 10%"> <asp:Label ID="lblInvoicingmonthheading" runat="server" Text="Invoicing Month"></asp:Label></td>
+                            <td align="left" style="width: 8%"> <asp:Label ID="lblContryheading" runat="server" Text="Country"></asp:Label></td>
+                            <td align="left" style="width: 8%"> <asp:Label ID="lblProviderheading" runat="server" Text="Provider"></asp:Label></td>
+                            <td align="left" style="width: 8%"> <asp:Label ID="lblPaymenttype" runat="server" Text="Payment Type"></asp:Label></td>
+                            <td align="right" style="width: 10%"> <asp:Label ID="lblNewtworkinvoiceheading" runat="server" Text="Network Invoice"></asp:Label></td>
+                               <td align="right" style="width: 10%"> <asp:Label ID="lblamountcalls" runat="server" Text="Amount Calls"></asp:Label></td>
+                            <td align="right" style="width: 10%"> <asp:Label ID="lblTrafficAmountusdheading" runat="server" Text="Traffic Amt.(USD)"></asp:Label></td>
+                            <td align="right" style="width: 10%"> <asp:Label ID="lblFeesamountheading" runat="server" Text="Fees Amt."></asp:Label></td>
+                            <td align="right" style="width: 10%"> <asp:Label ID="lblTotalamountheading" runat="server" Text="Total Amt"></asp:Label></td>
+                            <td align="right" style="width: 10%"> <asp:Label ID="lblTotalcontractheading" runat="server" Text="Total Contract"></asp:Label></td>
+                            <td align="right" style="width: 10%"> <asp:Label ID="lblarpuheading" runat="server" Text="ARPU"></asp:Label></td>
+                            </tr>
+                            </table>
+                            </HeaderTemplate>
+                            <ItemTemplate>
+                              <asp:Panel ID="mainpanel" runat="server">
+                                <table width="100%" border="0">
+                                 <tr style="background-color: #f9f9f9; cursor: pointer;">
+                                        <td style="width: 3%"><asp:ImageButton ID="Image1" runat="server" ImageAlign="Left" ImageUrl="~/Images/expand_blue.jpg"  CommandName="showContract" CommandArgument='<%#Eval("invmonth") %>'  /></td>
+                                        <td align="left" style="width: 3%"> <asp:Label ID="lblserialno" runat="server" Text='<%#Container.DataItemIndex + 1 %>'></asp:Label></td>
+                                        <td align="left" style="width: 10%">
+                                        <asp:HiddenField ID="hdnCountryid" runat="server"  Value='<%#Eval("country_id") %>'/>
+                                           <asp:HiddenField ID="hdnProviderid" runat="server"  Value='<%#Eval("provider_id") %>'/>
+                                           <asp:HiddenField ID="hdnpaymentTypeId" runat="server"  Value='<%#Eval("payment_type_id") %>'/>
+                                        <asp:Label ID="lblInvoicemonth" runat="server" Text='<%#Eval("invoicingmonth") %>'></asp:Label>
+                                        </td>
+                                        <td align="left" style="width: 8%"> <asp:Label ID="lblCountry" runat="server" Text='<%#Eval("country_name") %>'></asp:Label></td>
+                                        <td align="left" style="width: 8%"><asp:Label ID="lblprovider" runat="server" Text='<%#Eval("provider_name") %>'></asp:Label></td>
+                                         <td align="left" style="width: 8%"><asp:Label ID="lblPaymentType" runat="server" Text='<%#Eval("payment_type") %>'></asp:Label></td>
+                                        <td align="right" style="width: 7%" > <asp:Label ID="lblnetworkAmount" runat="server" Text='<%#Eval("networkAmount") %>'></asp:Label></td>
+                                         <td align="right" style="width: 10%"><asp:Label ID="lblSymbol" runat="server" Text='<%#Eval("symbol") %>'></asp:Label> <asp:Label ID="lblAmountcalls" runat="server" Text='<%#Eval("amountcalls") %>'></asp:Label></td>
+                                        <td align="right" style="width: 10%"> <asp:Label ID="lblamountusd" runat="server" Text='<%#Eval("amountusd") %>'></asp:Label></td>
+                                        <td align="right" style="width: 10%"><asp:Label ID="lblfees_amount" runat="server" Text='<%#Eval("fees_amount") %>'></asp:Label></td>
+                                        <td align="right" style="width: 10%"><asp:Label ID="lblamounttotal" runat="server" Text='<%#Eval("totel_amount") %>'></asp:Label>
+                                        
+                                        </td>
+                                        <td align="right" style="width: 10%"> <asp:Label ID="lblTotalContract1" runat="server" Text='<%#Eval("totalcontract") %>'></asp:Label></td>
+                                        <td align="right" style="width: 10%">  <asp:Label ID="lblarpu" runat="server"></asp:Label></td>
+                            
+                                  </tr>
+                                </table>
+                                </asp:Panel>
+                                   <asp:Panel ID="contentpanel" runat="server" style="padding-left:58px">
+                                    
+                                   <asp:GridView ID="grdRevenuedetails" runat="server" AutoGenerateColumns="false" 
+                            Width="80%" ShowHeaderWhenEmpty="True" ShowFooter="true" FooterStyle-Font-Bold="true"
+                            FooterStyle-HorizontalAlign="Right" RowStyle-HorizontalAlign="Right" EmptyDataText="No record(s) found!"
+                            AlternatingRowStyle-HorizontalAlign="Right" HeaderStyle-HorizontalAlign="Right" 
+                            OnRowDataBound="grdRevenuedetails_RowDataBound" CssClass="grd-header">
+                            <Columns>
+                                <asp:TemplateField HeaderText="SrNo" ItemStyle-HorizontalAlign="Center" HeaderStyle-HorizontalAlign="Left" >
+                                    <ItemTemplate>
+                                        <%#Container.DataItemIndex + 1 %>
+                                    </ItemTemplate>
+                                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="Invoicing Month" ItemStyle-HorizontalAlign="Left"
+                                    HeaderStyle-HorizontalAlign="Left">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lblInvoicemonth" runat="server" Text='<%#Eval("invoicingmonth") %>'></asp:Label>
+                                    </ItemTemplate>
+                                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="Branch" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lbllanguage_name" runat="server" Text='<%#Eval("language_name") %>'></asp:Label>
+                                    </ItemTemplate>
+                                </asp:TemplateField>
+                                    
+                                    
+
+                                <asp:TemplateField HeaderText="Traffic Amount(USD)" HeaderStyle-CssClass="force-right"
+                                    ItemStyle-HorizontalAlign="Right" HeaderStyle-HorizontalAlign="Right">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lblamountusd" runat="server" Text='<%#Eval("amountusd") %>'></asp:Label>
+                                    </ItemTemplate>
+                                    <FooterTemplate>
+                                        <asp:Label ID="lbltotalamountusdDetails" runat="server"></asp:Label>
+                                    </FooterTemplate>
+                                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="Fee Amount" HeaderStyle-CssClass="force-right" ItemStyle-HorizontalAlign="Right"
+                                    HeaderStyle-HorizontalAlign="Right">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lblamountfees" runat="server" Text='<%#Eval("amountfees") %>'></asp:Label>
+                                    </ItemTemplate>
+                                    <FooterTemplate>
+                                        <asp:Label ID="lbltotalamountfeesDetails" runat="server"></asp:Label>
+                                    </FooterTemplate>
+                                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="Total Amount" HeaderStyle-CssClass="force-right" ItemStyle-HorizontalAlign="Right"
+                                    HeaderStyle-HorizontalAlign="Right">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lblamounttotal" runat="server" Text='<%#Eval("amounttotal") %>'></asp:Label>
+                                    </ItemTemplate>
+                                    <FooterTemplate>
+                                        <asp:Label ID="lbltotalamounttotalDetails" runat="server"></asp:Label>
+                                    </FooterTemplate>
+                                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="Total Contract" HeaderStyle-CssClass="force-right"
+                                    ItemStyle-HorizontalAlign="Right" HeaderStyle-HorizontalAlign="Right">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lblTotalContract" runat="server" Text='<%#Eval("totalcontract") %>'></asp:Label>
+                                    </ItemTemplate>
+                                    <FooterTemplate>
+                                        <asp:Label ID="lbltotalcontractDetails" runat="server"></asp:Label>
+                                    </FooterTemplate>
+                                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="ARPU" HeaderStyle-CssClass="force-right" ItemStyle-HorizontalAlign="Right"
+                                    HeaderStyle-HorizontalAlign="Right">
+                                    <ItemTemplate>
+                                        <asp:Label ID="lblarpudetails" runat="server"></asp:Label>
+                                    </ItemTemplate>
+                                    <FooterTemplate>
+                                        <asp:Label ID="lbltotalarpudetails" runat="server"></asp:Label>
+                                    </FooterTemplate>
+                                </asp:TemplateField>
+                            </Columns>
+                        </asp:GridView>
+                   
+                                   </asp:Panel>
+                                      <cc1:CollapsiblePanelExtender ID="cpe" runat="server" TargetControlID="contentpanel"
+                                ExpandControlID="mainpanel" CollapseControlID="mainpanel" CollapsedImage="~/Images/arrow_up.gif"
+                                ExpandedImage="~/Images/arrow_down.gif" ImageControlID="Image1" EnableViewState="true"
+                                Collapsed="true">
+                            </cc1:CollapsiblePanelExtender>
+                            </ItemTemplate>
+                            <FooterTemplate> 
+                               <table width="100%" border="0">
+                                <tr style="height: 25px;" >
+                                   <td style="width:3%">  &nbsp; </td>
+                                   <td style="width:3%">   &nbsp; </td>
+                                   <td style="width:10%">   &nbsp; </td>
+                                   <td style="width:8%">   &nbsp; </td>
+                                   <td style="width:8%">   &nbsp; </td>
+                                    <td style="width:8%">   &nbsp; </td>
+                                   <td style="width:10%;font-weight:bold" align="right">   <asp:Label ID="lbltotalnetworkamount" runat="server" Visible="false"></asp:Label> </td>
+                                     <td style="width:10%">   &nbsp; </td>
+                                   <td style="width:10%;font-weight:bold" align="right">   <asp:Label ID="lbltotalamountusd" runat="server"></asp:Label> </td>
+                                   <td style="width:10%;font-weight:bold" align="right"> <asp:Label ID="lbltotalfees_amount" runat="server"></asp:Label> </td>
+                                   <td style="width:10%;font-weight:bold" align="right">  <asp:Label ID="lbltotaltotalamount" runat="server"></asp:Label> </td>
+                                   <td style="width:10%;font-weight:bold" align="right">    <asp:Label ID="lbltotalContract" runat="server"></asp:Label></td>
+                                   <td style="width:10%;font-weight:bold" align="right">   <asp:Label ID="lbltotalarpu" runat="server"></asp:Label></td>
+                                 
+                                     
+                                 </tr>
+                                 </table>
+                            </FooterTemplate>
+                            </asp:TemplateField>
+
+                            </Columns>
+                        </asp:GridView>
+             </div>
+              </div>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+</asp:Content>
+

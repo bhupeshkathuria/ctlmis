@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.Services;
+using System.Data;
+
+public partial class Finance_PLReportNew : System.Web.UI.Page
+{
+    static string fromdt = string.Empty;
+    static string todt = string.Empty;
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        
+    }
+    [WebMethod]
+    public static PLData[] GetPLData()
+    {
+        try
+        {
+            List<PLData> PlDataList=new List<PLData>();           
+            string finid = string.Empty;
+            FinanceDataAccess objData = new FinanceDataAccess();
+            fromdt="2013-06-01";
+            todt = "2013-06-30";            
+            objData.Fromdt = fromdt;
+            objData.Todt = todt;
+            finid = objData.getFinYear(fromdt, todt);
+            DataTable dt = objData.GetPlData(fromdt, todt, finid);
+            foreach (DataRow row in dt.Rows)
+            {
+                PLData d = new PLData();
+                d.account = row["Account"].ToString();
+                if (string.IsNullOrEmpty(row["balance"].ToString())==false)                
+                {
+                    d.balance = Convert.ToDouble(row["balance"]);
+                }
+                else
+                {
+                    d.balance = 0;
+                }
+                if (string.IsNullOrEmpty(row["total"].ToString()) == false)  
+                {
+                    d.total = Convert.ToDouble(row["total"]);
+                }
+                else
+                {
+                    d.total = 0;
+                }
+                PlDataList.Add(d);
+            }
+            return PlDataList.ToArray();            
+        }
+
+        catch (Exception ex)
+        {
+
+            throw ex;
+        }
+
+    }
+    
+}

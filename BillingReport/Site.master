@@ -1,0 +1,410 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="Css/Main.css" rel="stylesheet" type="text/css" />
+    <link href="Css/style.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <script src="JS/jquery.min.js" type="text/javascript"></script>
+    <script src="JS/site.js" type="text/javascript"></script>
+    <link href="Css/pop_up.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+        function OpenInvoieDetails() {
+            window.open('https://newadmin.piccellwireless.com/billing/Invoice/Invoicing.aspx?Flag=Clay', 'InvoiceReport', 'width=1070, height=700,scrollbars=yes');
+            return false;
+        }
+        function Openlastpayment() {
+            window.open('http://apps.claytelecom.com/revenueaudit/Payment/Report/LastThreePayment.aspx?Flag=Clay', 'InvoiceReport', 'width=1200, height=600,scrollbars=yes');
+            return false;
+        }
+
+        function Openschdulepayment() {
+            window.open('http://apps.claytelecom.com/revenueaudit/Payment/Report/RPTScheduleDetailNew.aspx?Flag=Clay', 'InvoiceReport', 'width=1200, height=600,scrollbars=yes');
+            return false;
+        }
+        function Openinvoice() {
+            window.open('http://apps.claytelecom.com/revenueaudit/Payment/Report/InvoiceDetail.aspx?Flag=Clay', 'InvoiceReport', 'width=1350, height=600,scrollbars=yes');
+            return false;
+        }
+        function Openpaymentdetail() {
+            window.open('http://apps.claytelecom.com/revenueaudit/Payment/Report/PaymentDetails.aspx?Flag=Clay', 'InvoiceReport', 'width=1350, height=600,scrollbars=yes');
+            return false;
+        }
+
+
+        function OpenZombieReport() {
+            window.open('http://apps.claytelecom.com/weberp/User/Invoice/ZombieCountryWise.aspx', 'ZombieReport', 'width=1350, height=600,scrollbars=yes');
+            return false;
+        }
+
+        function OpenProviderCostReport() {
+            window.open('http://apps.claytelecom.com/weberp/User/Invoice/RebelProviderVSTotal.aspx', 'ProviderCostReport', 'width=1350, height=600,scrollbars=yes');
+            return false;
+        }
+
+    </script>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <telerik:RadScriptManager ID="RadScriptManager1" runat="server">
+    </telerik:RadScriptManager>
+    <div class="outer">
+        <div class="header-area">
+            <div style="width: 90%">
+                <div style="float: left; padding-right: 10px">
+                    <asp:Image ID="logo" runat="server" ImageUrl="~/Images/logo.jpg" Height="80px" />
+                </div>
+                <div style="text-align: center; vertical-align: middle; padding-top: 20px">
+                    <h2 id="header1" runat="server">
+                        Welcome to Clay Billing report
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div style="padding-left: 5px; width: 100%">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td style="width: 100%;">
+                        <telerik:RadMenu ID="RadMenu1" runat="server">
+                            <Items>
+                                <telerik:RadMenuItem Text="Home" Font-Bold="true" Font-Names="Verdana" Font-Size="11px"
+                                    NavigateUrl="MainPage.aspx">
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="DashBoard" Font-Bold="true" Font-Names="Verdana" Font-Size="11px"
+                                    NavigateUrl="frmDashboard.aspx">
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Report" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Billing DashBoard" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="~/Report/MainReportFormatPage.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Billing DashBoard NEW" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/frmcountrywisebillingdashboard.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sales Order DashBoard" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="~/Report/MainPageForSalesOrderDashBoard.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="All Branch Billing" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="~/Report/MainPageAllBranchBillingYearWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Branch Wise Sales Of Country " Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Report/MainPageForBranchWiseSalesOrder.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Zombie Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" onclick="OpenZombieReport()">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="MIS Report" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Invoice Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/InvoiceGenNoGenReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Invoice Not Generated" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/InvoiceGenNoGenReportNew.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Invoice Less 500" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/ReportAmountBelow500.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="MIS Report" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="MISReport/MISReportBrachCountryWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="MIS Report Graph" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/MISReportBrachCountryWiseGraph.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Low/High Value Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/LowHighValueReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Traffic Control" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/TrafficControl.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Billing Status" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/LiveStatus.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sales Manager Wise" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/RptManagerwise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Comparison Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/RptComparison.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Business Down Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/BusinessDownReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Highest Corporate Sale" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/HighestCorporateSale.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Monthly DSR" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="frmdsrdashboard.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="ERP Usage" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="ErpReports/frmErpUsageReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Daily Billing Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/DailyBillingReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sale Billing Year Wise" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/rptSaleReportBillingYearWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sale Category" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/rptSaleCategoryYearWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Account Manager Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="MISReport/SaleBillingBranchAccountMWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="CDR Row Data" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="MISReport/rptCDRRowData.aspx">
+                                        </telerik:RadMenuItem>
+
+                                        <telerik:RadMenuItem Text="Yearly SaleBilling" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="MISReport/rptYearWiseSaleBilling.aspx">
+                                        </telerik:RadMenuItem>
+
+                                        
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Sales Report" Font-Bold="true" Font-Names="verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Sales Dash Board" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/SalesDashboardNew.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sales Report Date wise" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmSalesReportDateWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Shortfall Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmShortFallReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sales Report Account Manager wise" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmSalesReportAccountManagerWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <%--<telerik:RadMenuItem Text="ARPU Report" Font-Bold="false" Font-Names="verdana"
+                                    Font-Size="11px" NavigateUrl="Sales/rptArpu.aspx">
+                                </telerik:RadMenuItem>--%>
+                                        <telerik:RadMenuItem Text="ARPU Report" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="Sales/frmARPUNew.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Funnel Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmFunnelReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Travel Insurance Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmTravelInsurance.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="RAF Status Wise Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmSalesReportStatusWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <%--<telerik:RadMenuItem Text="Lead Source Report" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/frmLeadSource.aspx">
+                                        </telerik:RadMenuItem>--%>
+                                        <telerik:RadMenuItem Text="Lead Snapshot" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/LeadSourceDetail.aspx">
+                                        </telerik:RadMenuItem>
+                                        <%--<telerik:RadMenuItem Text="Lead Source Report Detail" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/LeadSourceDetail.aspx">
+                                        </telerik:RadMenuItem>--%>
+                                        <telerik:RadMenuItem Text="Lead Details" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="Sales/MonthlyReportByBranch.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Erp Reports" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Higest Invoice" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="ErpReports/HigestInvoiceReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="CDR Pricing(In & Out)" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="ErpReports/CDRPricingReport.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Finance" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="P/L Report " Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Finance/PLReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Purchase/Payment Comparative Analysis" Font-Bold="false"
+                                            Font-Names="Verdana" Font-Size="11px" NavigateUrl="Finance/NetworkWisePurchase.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Monthly Salary" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Payroll/SalaryAnalysis.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="RAD" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="RAD Report" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="RAD/Copy of CDR_InvoiceRpt.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Techscoot Sale Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Techscoot/rptdailysale.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="CDR And Invoice" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="RAD/rptcdrInvoice.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Rental In Out" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="RAD/Rental-In-Out.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Contract Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="RAD/CDR_Contractrpt.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Last Six Payments" Font-Bold="false" Font-Names="Verdana"
+                                            onclick="Openlastpayment()" Font-Size="11px">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Schedule Detail" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" onclick="Openschdulepayment()">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="All Invoices Details" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" onclick="Openinvoice()">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="All Payment Details" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" onclick="Openpaymentdetail()">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Piccell" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="RAD Report" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="PiccellReports/frm-rad-inout.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Revenue Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="PiccellReports/RevenueReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sale Dashboard" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="PiccellReports/salesReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Invoicing Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" onclick="OpenInvoieDetails()">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sale vs Revenue" NavigateUrl="PiccellReports/salerevenue.aspx"
+                                            Font-Bold="false" Font-Names="Verdana" Font-Size="11px">
+                                        </telerik:RadMenuItem>
+
+                                        <telerik:RadMenuItem Text="Retail Invoice" NavigateUrl="PiccellReports/RetailInvoice.aspx"
+                                            Font-Bold="false" Font-Names="Verdana" Font-Size="11px">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Prepaid Reports" Font-Bold="true" Font-Names="Verdana"
+                                    Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Sales Report" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="PrepaidSales/frmPrepaidSale.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Approval" Font-Bold="true" Font-Names="Verdana" Font-Size="11px"
+                                    NavigateUrl="ErpReports/frmapproval0.aspx">
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Credit Control" Font-Bold="true" Font-Names="Verdana"
+                                    Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Collection Dashboard" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="CreditControl/CollectionReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Daily Collection Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="CreditControl/DailyReport.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Daily Collection Report By Branch" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="CreditControl/rpt_monthly_branch.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Monthly Collection Report By Branch" Font-Bold="false"
+                                            Font-Names="Verdana" Font-Size="11px" NavigateUrl="CreditControl/MonthlyReportByBranch.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Monthly Outstanding(Executive wise)" Font-Bold="false"
+                                            Font-Names="Verdana" Font-Size="11px" NavigateUrl="CreditControl/Monthly_outstanding.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Outstanding Report-Ageing wise" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="CreditControl/Outstanding-Agging2.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Collection Report-Ageing wise" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="CreditControl/Collection-Agging2.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Rebelfone" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="OverView Report" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Rebelfone/Rpt_Overview.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="SIM SALE" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Rebelfone/Rpt_SIMSale.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Airtime-Databundle" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Rebelfone/Rpt_Airtime_Data.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Mifi-Prepaid" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Rebelfone/Rpt_Mifi-Prepaid.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Sold Phone " Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Rebelfone/Rpt_Phone.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="SIM Sale Country Wise" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Rebelfone/Rpt_Sim_CountryWise.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Revenue" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Rebelfone/Rpt_Revenue.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="No Of Visitors" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Rebelfone/Rpt_Visitors.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Advertisement Cost" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="Rebelfone/Rpt_Adcost.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="MIS" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Rebelfone/Mis.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Provider Vs OurCost" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" onclick="OpenProviderCostReport()">
+                                        </telerik:RadMenuItem>
+                                        
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Settings" Font-Bold="true" Font-Names="Verdana" Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Change Password" Font-Bold="false" Font-Names="Verdana"
+                                            Font-Size="11px" NavigateUrl="ChangePassword.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Alert Mail" Font-Bold="false" Font-Names="Verdana" Font-Size="11px"
+                                            NavigateUrl="Alert.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <%--<telerik:RadMenuItem Text="ChangePassword" Font-Bold="true" Font-Names="Verdana" Font-Size="11px"  NavigateUrl="ChangePassword.aspx"></telerik:RadMenuItem>--%>
+                                <telerik:RadMenuItem Text="Digital Marketing" Font-Bold="true" Font-Names="Verdana"
+                                    Font-Size="11px">
+                                    <Items>
+                                        <telerik:RadMenuItem Text="Lead Snapshot" Font-Bold="false" Font-Names="verdana"
+                                            Font-Size="11px" NavigateUrl="Sales/LeadSourceDetail.aspx">
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem Text="Lead Details" Font-Bold="false" Font-Names="verdana" Font-Size="11px"
+                                            NavigateUrl="Sales/MonthlyReportByBranch.aspx">
+                                        </telerik:RadMenuItem>
+                                    </Items>
+                                </telerik:RadMenuItem>
+                                <telerik:RadMenuItem Text="Logout" Font-Bold="true" Font-Names="Verdana" NavigateUrl="Logout.aspx"
+                                    Font-Size="11px">
+                                </telerik:RadMenuItem>
+                            </Items>
+                        </telerik:RadMenu>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="page">
+        <div class="main" style="background-color: White">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+    </form>
+</body>
+</html>

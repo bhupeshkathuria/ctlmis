@@ -1,0 +1,524 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using Clay.Sale.Bll;
+using System.Text;
+
+public partial class Sales_frmARPUNew : System.Web.UI.Page
+{
+    # region user defined fields
+    Clay.Common.Bll.Branch objBranch = null;
+    Clay.Sale.Bll.SalesSummaryReport objSalesSummaryReport = new SalesSummaryReport();
+    Clay.Sale.Bll.CreditDetail objcollection = new Clay.Sale.Bll.CreditDetail();
+    DataSet ds = new DataSet();
+    DataSet dsBilling = new DataSet();
+    DataSet dsEmployee = new DataSet();
+    DataSet dsBranch = new DataSet();
+    DataSet dsCountry = new DataSet();
+    DataSet dsSearchBranch = null;
+    StringBuilder sb;
+    #endregion
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        #region Country
+        CheckBoxListExCtrl1year.Attributes.Add("onclick", "readCheckBoxList('" +
+                    CheckBoxListExCtrl1year.ClientID + "','" + MultiSelectDDLyear.ClientID + "','" +
+                    hf_checkBoxTextyear.ClientID + "','" +
+                    hf_checkBoxValueyear.ClientID + "','" + hf_checkBoxSelIndexyear.ClientID + "');");
+
+        MultiSelectDDLyear.Attributes.Add("onmousemove", "showIE6Tooltip();");
+        MultiSelectDDLyear.Attributes.Add("onmouseout", "hideIE6Tooltip();");
+
+        if (!string.IsNullOrEmpty(hf_checkBoxValueyear.Value))
+        {
+            SetDropDownListTextyear(hf_checkBoxValueyear.Value);
+        }
+
+        if (!string.IsNullOrEmpty(hf_checkBoxTextyear.Value))
+        {
+            SetToolTipyear(hf_checkBoxTextyear.Value);
+        }
+        #endregion
+        CheckBoxListExCtrl1.Attributes.Add("onclick", "readCheckBoxList('" +
+                    CheckBoxListExCtrl1.ClientID + "','" + MultiSelectDDL.ClientID + "','" +
+                    hf_checkBoxText.ClientID + "','" +
+                    hf_checkBoxValue.ClientID + "','" + hf_checkBoxSelIndex.ClientID + "');");
+
+        MultiSelectDDL.Attributes.Add("onmousemove", "showIE6Tooltip();");
+        MultiSelectDDL.Attributes.Add("onmouseout", "hideIE6Tooltip();");
+
+        if (!string.IsNullOrEmpty(hf_checkBoxValue.Value))
+        {
+            SetDropDownListText(hf_checkBoxValue.Value);
+        }
+
+        if (!string.IsNullOrEmpty(hf_checkBoxText.Value))
+        {
+            SetToolTip(hf_checkBoxText.Value);
+        }
+
+        if (!IsPostBack)
+        {
+            //SetCheckBoxList("1,3,5");
+            loadyear();
+
+        }
+    }
+    void loadyear()
+    {
+        SortedList<string, string> sortedYear = new SortedList<string, string>();
+        sortedYear.Add("--", "Select");
+        sortedYear.Add("2009", "2009");
+        sortedYear.Add("2010", "2010");
+        sortedYear.Add("2011", "2011");
+        sortedYear.Add("2012", "2012");
+        sortedYear.Add("2013", "2013");
+        sortedYear.Add("2014", "2014");
+        sortedYear.Add("2015", "2015");
+        sortedYear.Add("2016", "2016");
+        sortedYear.Add("2017", "2017");
+        sortedYear.Add("2018", "2018");
+        sortedYear.Add("2019", "2019");
+        sortedYear.Add("2020", "2020");
+
+        ddlYear.DataSource = sortedYear;
+        ddlYear.DataValueField = "Key";
+        ddlYear.DataTextField = "value";
+        ddlYear.DataBind();
+    }
+    internal void SetToolTipyear(string title)
+    {
+        MultiSelectDDLyear.Attributes.Add("title", title);
+        MultiSelectDDLyear.ToolTip = title;
+    }
+
+    internal void SetDropDownListTextyear(string txt)
+    {
+        MultiSelectDDLyear.Items.Clear();
+        MultiSelectDDLyear.Items.Add(new ListItem(txt));
+    }
+
+    internal void SetToolTip(string title)
+    {
+        MultiSelectDDL.Attributes.Add("title", title);
+        MultiSelectDDL.ToolTip = title;
+    }
+
+    internal void SetDropDownListText(string txt)
+    {
+        MultiSelectDDL.Items.Clear();
+        MultiSelectDDL.Items.Add(new ListItem(txt));
+    }
+
+    //check the checkboxlist
+    private void LoadCountry()
+    {
+        DataRow dr;
+
+        dsCountry = objSalesSummaryReport.GetCountry();
+        dr = dsCountry.Tables[0].NewRow();
+        dr["countryname"] = "All";
+        dr["countryid"] = "0";
+        dsCountry.Tables[0].Rows.InsertAt(dr, 0);
+
+        //ddlcommon.DataSource = dsCountry.Tables[0];
+        //ddlcommon.DataValueField = "countryid";
+        //ddlcommon.DataTextField = "countryname";
+        //ddlcommon.DataBind();       
+
+        chkmultiple.DataSource = dsCountry.Tables[0];
+        chkmultiple.DataValueField = "countryid";
+        chkmultiple.DataTextField = "countryname";
+        chkmultiple.DataBind();
+        // chkmultiple.Items[0].Selected = true;
+
+    }
+
+    public void SetCheckBoxList(string index)
+    {
+        string[] strArray;
+        strArray = index.Split(@",".ToCharArray());
+        string chkBoxIndex = string.Empty;
+        string chkBoxValue = string.Empty;
+        string chkBoxText = string.Empty;
+
+        if (strArray.Length > 0)
+        {
+            int result;
+            foreach (string s in strArray)
+            {
+                result = 0;
+
+                if (int.TryParse(s, out result))
+                {
+                    CheckBoxListExCtrl1.Items[result].Selected = true;
+
+                    //index
+                    if (chkBoxIndex.Length > 0)
+                        chkBoxIndex += ", ";
+
+                    chkBoxIndex += result.ToString();
+
+                    //value
+                    if (chkBoxValue.Length > 0)
+                        chkBoxValue += ", ";
+
+                    chkBoxValue += CheckBoxListExCtrl1.Items[result].Value;
+
+                    //text
+                    if (chkBoxText.Length > 0)
+                        chkBoxText += ", ";
+
+                    chkBoxText += CheckBoxListExCtrl1.Items[result].Text;
+
+                }
+            }
+
+            SetDropDownListText(chkBoxValue);
+            SetToolTip(chkBoxText);
+            hf_checkBoxSelIndex.Value = chkBoxIndex;
+            hf_checkBoxText.Value = chkBoxText;
+            hf_checkBoxValue.Value = chkBoxValue;
+        }
+    }
+
+    void LoadBranchTcbSearchBranch()
+    {
+        dsSearchBranch = new DataSet();
+        objBranch = new Clay.Common.Bll.Branch();
+        dsSearchBranch = objBranch.GetBranch();
+
+        if (dsSearchBranch.Tables.Count > 0)
+        {
+            DataRow dr;
+            dr = dsSearchBranch.Tables[0].NewRow();
+            dr["branchname"] = "All";
+            dr["branchid"] = 0;
+            dsSearchBranch.Tables[0].Rows.InsertAt(dr, 0);
+            //ddlcommon.DataSource = dsSearchBranch.Tables[0];
+            //ddlcommon.DataTextField = "branchname";
+            //ddlcommon.DataValueField = "branchid";
+            //ddlcommon.DataBind();
+
+            chkmultiple.DataSource = dsSearchBranch.Tables[0];
+            chkmultiple.DataTextField = "branchname";
+            chkmultiple.DataValueField = "branchid";
+            chkmultiple.DataBind();
+            //chkmultiple.Items[0].Selected = true; 
+
+        }
+    }
+
+    protected void cmdFind_Click(object sender, EventArgs e)
+    {
+        string reptype = string.Empty;
+        string _field = string.Empty;
+        // SortExpression = string.Empty;
+        reptype = ddlRepType.SelectedValue.ToString();
+        //grdview1.DataSource = null;
+        //grdview1.DataBind();
+        Repeater1.DataSource = null;
+        Repeater1.DataBind();
+        if (hf_checkBoxValueyear.Value != "")
+        {
+            lblMonth.Visible = false;
+          //  displayrpt(reptype);
+        }
+        
+        else
+        {
+            lblMonth.Text = "Please Select Year!";
+            lblMonth.Visible = true;
+            return;
+        }
+        if (hf_checkBoxValue.Value != "")
+        {
+            lblMonth.Visible = false;
+            displayrpt(reptype);
+        }
+        else
+        {
+            lblMonth.Text = "Please Select Month!";
+            lblMonth.Visible = true;
+            return;
+        }
+    }
+
+    protected void displayrpt(string reptype)
+    {
+        string _field = string.Empty;
+        int months = 0;
+        decimal _saleamt = 0;
+        decimal _billamt = 0;
+        decimal _arpu = 0;
+        string _month_val = string.Empty;
+        string _country = string.Empty;
+        string branch = string.Empty;
+        string year = ddlYear.SelectedValue.ToString();
+        StringBuilder sb1 = new StringBuilder(string.Empty);
+        sb1.Append(hf_checkBoxValueyear.Value);
+        string year1 = sb1.ToString();
+        string[] _month_arr1 = year1.Split(',');
+       
+        StringBuilder sb = new StringBuilder(string.Empty);
+        sb.Append(hf_checkBoxValue.Value);
+        string month = sb.ToString();
+        string[] _month_arr = month.Split(',');
+        DataTable dt = new DataTable();       
+        DataSet ds;
+        try
+        {           
+            if ((reptype == "1") || (reptype=="2"))     //Country
+            {
+                for (int k = 0; k < chkmultiple.Items.Count; k++)
+                {
+                    if (chkmultiple.Items[k].Selected == true)
+                    {
+                        if (chkmultiple.Items[0].Selected == true)
+                        {
+                            _field = "0";
+                            break;
+                        }
+                        else
+                        {
+                            if (_field != "")
+                            {
+                                _field =_field + "," + chkmultiple.Items[k].Value;
+                            }
+                            else
+                            {
+                                _field= chkmultiple.Items[k].Value;
+                            }
+                            
+                        }
+                    }
+                }
+                if (string.IsNullOrEmpty(_field))
+                {
+                    _field = "0";
+                }
+            }            
+            ds = objcollection.GetARPUReportNew(month, year1, Convert.ToInt32(reptype), _field);
+            if (ds.Tables[0].Rows.Count > 0)
+            {
+                Repeater1.DataSource = ds.Tables[0];
+                Repeater1.DataBind();
+            }
+           
+        }
+        catch (Exception ex)
+        {
+            ex.ToString();
+        }
+    }
+
+    private string ConvertToMoneyFormat(double myval)
+    {
+        return string.Format("{0:0.00}", myval);
+    }
+    
+    protected void ddlRepType_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        if (ddlRepType.SelectedValue == "1")
+        {
+            LoadCountry();
+            // ddlcommon.Visible = true;
+            chkmultiple.Visible = true;
+            divitem.Visible = true;
+            Repeater1.DataSource = null;
+            Repeater1.DataBind();
+            lblMonth.Visible = false;
+        }
+        else if (ddlRepType.SelectedValue == "2")
+        {
+            LoadBranchTcbSearchBranch();
+            // ddlcommon.Visible = true;
+            chkmultiple.Visible = true;
+            divitem.Visible = true;
+            Repeater1.DataSource = null;
+            Repeater1.DataBind();
+            lblMonth.Visible = false;
+        }
+        else
+        {
+            //ddlcommon.Visible = false;
+            chkmultiple.Visible = false;
+            divitem.Visible = false;
+            Repeater1.DataSource = null;
+            Repeater1.DataBind();
+            lblMonth.Visible = false;
+        }
+    }
+    #region varibles
+    int _totraf = 0;
+    decimal _totalbilling = 0;
+    decimal _servicetax = 0;
+    decimal _creditnot = 0;
+    decimal _actualbilling = 0;
+    decimal _arpu;
+    #endregion
+    protected void Repeater1_ItemDataBound(object sender, RepeaterItemEventArgs e)
+    {
+        int reptype = Convert.ToInt16(ddlRepType.SelectedValue.ToString());
+        if (e.Item.ItemType == ListItemType.Header)
+        {
+            if (reptype == 0)
+            {               
+                Panel panel = (Panel)e.Item.FindControl("panel1");
+                panel.Visible = false;
+            }
+            if (reptype == 1)
+            {
+                Label lblBranch = (Label)e.Item.FindControl("lblBranch");
+                lblBranch.Text = "Country";                
+            }
+            if (reptype == 2)
+            {
+                Label lblBranch = (Label)e.Item.FindControl("lblBranch");
+                lblBranch.Text = "Branch";               
+            }
+        }
+        if ((e.Item.ItemType == ListItemType.Item) || (e.Item.ItemType == ListItemType.AlternatingItem))
+        {
+            AjaxControlToolkit.CollapsiblePanelExtender as1 = (AjaxControlToolkit.CollapsiblePanelExtender)e.Item.FindControl("cpe");
+
+            if (reptype == 0)
+            {
+                Panel panel = (Panel)e.Item.FindControl("panel1");
+                panel.Visible = false;
+            }
+            Label lblMonth = (Label)e.Item.FindControl("lblBillngMonth_1");
+            string tempmonth = lblMonth.Text;
+            System.Globalization.DateTimeFormatInfo mfi = new System.Globalization.DateTimeFormatInfo();
+            lblMonth.Text = mfi.GetMonthName(Convert.ToInt16(tempmonth)).ToString();
+
+            Label lblYear = (Label)e.Item.FindControl("lblBillngYear_1");
+            string tempyear = lblYear.Text;
+
+            string tempfield = string.Empty;
+            if ((reptype == 1) || (reptype == 2))
+            {
+                HiddenField hdbranchid = (HiddenField)e.Item.FindControl("hdbranchid");
+                tempfield = hdbranchid.Value;
+            }
+            double TotalBillAmt = 0;
+            double billcount = 0;
+            double taxamt = 0;
+            double creditamt = 0;
+            Label lblBillCount = (Label)e.Item.FindControl("lblTotalRAF_1");
+            if (lblBillCount.Text != "")
+            {
+                billcount = Convert.ToDouble(lblBillCount.Text);
+                _totraf += Convert.ToInt32(lblBillCount.Text);
+            }
+            Label lblTotalBillAmt = (Label)e.Item.FindControl("lblTotalBilling_1");
+            if (lblTotalBillAmt.Text != "")
+            {
+                TotalBillAmt = Convert.ToDouble(lblTotalBillAmt.Text);
+                _totalbilling += Convert.ToDecimal(lblTotalBillAmt.Text);
+            }
+            Label lblTotalTaxAmt = (Label)e.Item.FindControl("lblTotalSTax_1");
+            if (lblTotalTaxAmt.Text != "")
+            {
+                taxamt = Convert.ToDouble(lblTotalTaxAmt.Text);
+                _servicetax += Convert.ToDecimal(lblTotalTaxAmt.Text);
+            }
+            Label lblCredit = (Label)e.Item.FindControl("lblTotalCRNote_1");
+            if (lblCredit.Text != "")
+            {
+                creditamt = Convert.ToDouble(lblCredit.Text);
+                _creditnot += Convert.ToDecimal(lblCredit.Text);
+            }
+            double actualbill = Math.Round((TotalBillAmt - taxamt - creditamt), 2);
+            Label lblActualBill = (Label)e.Item.FindControl("lblActualBilling_1");
+            lblActualBill.Text = actualbill.ToString();
+            _actualbilling += Convert.ToDecimal(actualbill);
+            Label lblARPU = (Label)e.Item.FindControl("lblARPU_1");
+            lblARPU.Text = Math.Round(actualbill / billcount, 0).ToString();
+            _arpu += Convert.ToDecimal(lblARPU.Text);
+            ds = objcollection.GetARPUDetailReport(tempmonth, tempyear, Convert.ToInt32(reptype), tempfield);
+            if (ds.Tables[0].Rows.Count > 0)
+            {
+                Repeater rpt = (Repeater)e.Item.FindControl("rptrDetail");
+                rpt.DataSource = ds.Tables[0];
+                rpt.DataBind();
+            }
+        }
+        #region Footer Section
+        if (e.Item.ItemType == ListItemType.Footer)
+        {
+            Label lblTotalRAFfot = (Label)e.Item.FindControl("lblTotalRAFfot");
+            Label lblTotalBillingfot = (Label)e.Item.FindControl("lblTotalBillingfot");
+            Label lblTotalSTaxfot = (Label)e.Item.FindControl("lblTotalSTaxfot");
+            Label lblTotalCRNotefot = (Label)e.Item.FindControl("lblTotalCRNotefot");
+            Label lblActualBillingfot = (Label)e.Item.FindControl("lblActualBillingfot");
+            Label lblARPUfot = (Label)e.Item.FindControl("lblARPUfot");
+            //HtmlTableCell tdfooter = (HtmlTableCell)e.Item.FindControl("tdfooter");
+            if (reptype == 0)
+            {
+                Panel panelfot = (Panel)e.Item.FindControl("panelfot");
+                panelfot.Visible = false;
+            }
+
+            lblTotalRAFfot.Text = _totraf.ToString();
+            lblTotalBillingfot.Text = _totalbilling.ToString();
+            lblTotalSTaxfot.Text = _servicetax.ToString();
+            lblTotalCRNotefot.Text = _creditnot.ToString();
+            lblActualBillingfot.Text = _actualbilling.ToString();
+            lblARPUfot.Text = Math.Round(_actualbilling / _totraf, 0).ToString(); //_arpu.ToString();
+        }
+        #endregion
+    }
+
+    protected void rptrDetail_ItemDataBound(object sender, RepeaterItemEventArgs e)
+    {
+        if ((e.Item.ItemType == ListItemType.Item) || (e.Item.ItemType == ListItemType.AlternatingItem))
+        {
+            Label lblmonth = (Label)e.Item.FindControl("lblSaleMonth_1");
+            int mymonth = Convert.ToInt16(lblmonth.Text);
+            System.Globalization.DateTimeFormatInfo mfi = new System.Globalization.DateTimeFormatInfo();
+            lblmonth.Text = mfi.GetMonthName(mymonth).ToString();
+
+            double TotalBillAmt = 0;
+            double billcount = 0;
+            double taxamt = 0;
+            double creditamt = 0;
+
+            Label lblBillCount = (Label)e.Item.FindControl("lblTotalRAF_Child_1");
+            if (lblBillCount.Text != "")
+            {
+                billcount = Convert.ToDouble(lblBillCount.Text);
+            }
+
+            Label lblTotalBillAmt = (Label)e.Item.FindControl("lblTotalBilling_Child_1");
+            if (lblTotalBillAmt.Text != "")
+            {
+                TotalBillAmt = Convert.ToDouble(lblTotalBillAmt.Text);
+            }
+
+            Label lblTotalTaxAmt = (Label)e.Item.FindControl("lblTotalSTax_Child_1");
+            if (lblTotalTaxAmt.Text != "")
+            {
+                taxamt = Convert.ToDouble(lblTotalTaxAmt.Text);
+            }
+
+            Label lblCredit = (Label)e.Item.FindControl("lblTotalCRNote_Child_1");
+            if (lblCredit.Text != "")
+            {
+                creditamt = Convert.ToDouble(lblCredit.Text);
+            }
+
+            double actualbill = Math.Round((TotalBillAmt - taxamt - creditamt), 2);
+            Label lblActualBill = (Label)e.Item.FindControl("lblActualBilling_Child_1");
+            lblActualBill.Text = actualbill.ToString();
+
+            Label lblARPU = (Label)e.Item.FindControl("lblARPU_Child_1");
+            lblARPU.Text = Math.Round(actualbill / billcount, 0).ToString();
+
+        }
+    }
+}

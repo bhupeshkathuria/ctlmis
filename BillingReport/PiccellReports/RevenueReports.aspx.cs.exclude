@@ -1,0 +1,510 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.Configuration;
+using System.Configuration;
+using System.Web.UI.HtmlControls;
+using BusinessLayer;
+using System.Data;
+using BL;
+using BLCommon;
+using System.Text;
+
+public partial class PiccellReports_RevenueReports : System.Web.UI.Page
+{
+    #region namespace
+    Property_Billing objPropertyBilling = new Property_Billing();
+    DbAccess_Billing objDbaccessBilling = new DbAccess_Billing();
+    DBAccess_Common objDbaccessCommon = new DBAccess_Common();
+    Property_Common objPropertyCommon = new Property_Common();
+    #endregion
+
+    #region dataset
+    DataSet dsCountry = new DataSet();
+    DataSet dsBranch = new DataSet();
+    DataSet dsPaymenttype = new DataSet();
+    DataSet dsBilling = new DataSet();
+    DataSet dsProvider = new DataSet();
+    DataSet dsBillingDetails = new DataSet();
+    double totalamountusd = 0;
+    double totalfeesamount = 0;
+    double totalamounts = 0;
+    double totalcontracts = 0;
+    double totalneworkamounts = 0;
+    int totalarpu = 0;
+
+    double totalamountusddetails = 0;
+    double totalfeesamountdetails = 0;
+    double totalamountsdetails = 0;
+    double totalcontractsdetails = 0;
+    int totalarpudetails = 0;
+    #endregion
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+        #region monthdropdown
+        CheckBoxListExCtrl1.Attributes.Add("onclick", "readCheckBoxList('" +
+                   CheckBoxListExCtrl1.ClientID + "','" + MultiSelectDDL.ClientID + "','" +
+                   hf_checkBoxText.ClientID + "','" +
+                   hf_checkBoxValue.ClientID + "','" + hf_checkBoxSelIndex.ClientID + "');");
+
+        MultiSelectDDL.Attributes.Add("onmousemove", "showIE6Tooltip();");
+        MultiSelectDDL.Attributes.Add("onmouseout", "hideIE6Tooltip();");
+
+        if (!string.IsNullOrEmpty(hf_checkBoxValue.Value))
+        {
+            SetDropDownListText(hf_checkBoxValue.Value);
+        }
+
+        if (!string.IsNullOrEmpty(hf_checkBoxText.Value))
+        {
+            SetToolTip(hf_checkBoxText.Value);
+        }
+        #endregion
+        
+        if (!IsPostBack)
+        {
+            // BindMonth();
+            BindYear();
+            BindCountry();
+            BindBranch();
+            BindPaymentType();
+            
+
+        }
+    }
+    #region user defined function
+    //private void BindMonth()
+    //{
+    //    try
+    //    {
+    //        Dictionary<string, string> list = new Dictionary<string, string>();
+    //        list = Helper.BindMonth();
+    //        ddlMonth.DataSource = list;
+    //        ddlMonth.DataTextField = "value";
+    //        ddlMonth.DataValueField = "key";
+    //        ddlMonth.DataBind();
+    //        ddlMonth.Items.Insert(0, new ListItem("-Select-", "0"));
+    //    }
+    //    catch (Exception ex)
+    //    {
+    //        ShowMessage("Red", ex.Message);
+
+    //    }
+
+    //}
+    private void BindPaymentType()
+    {
+        try
+        {
+            dsPaymenttype = objDbaccessCommon.GetPaymentType();
+            if (dsPaymenttype != null)
+            {
+
+                ddlPaymentType.DataSource = dsPaymenttype;
+                ddlPaymentType.DataTextField = "payment_type";
+                ddlPaymentType.DataValueField = "payment_type_id";
+                ddlPaymentType.DataBind();
+            }
+            ddlPaymentType.Items.Insert(0, new ListItem("-Select-", "0"));
+
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindBranch()
+    {
+        try
+        {
+            dsBranch = objDbaccessCommon.GetBranch();
+            if (dsBranch != null)
+            {
+                ddlBranch.DataSource = dsBranch;
+                ddlBranch.DataTextField = "language_name";
+                ddlBranch.DataValueField = "language_id";
+                ddlBranch.DataBind();
+            }
+            ddlBranch.Items.Insert(0, new ListItem("-Select-", "0"));
+           
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    internal void SetDropDownListText(string txt)
+    {
+        MultiSelectDDL.Items.Clear();
+        MultiSelectDDL.Items.Add(new ListItem(txt));
+    }
+    internal void SetToolTip(string title)
+    {
+        MultiSelectDDL.Attributes.Add("title", title);
+        MultiSelectDDL.ToolTip = title;
+    }
+    private void BindYear()
+    {
+        try
+        {
+            Dictionary<string, string> list = new Dictionary<string, string>();
+            list = Helper.BindYear();
+            ddlYear.DataSource = list;
+            ddlYear.DataTextField = "value";
+            ddlYear.DataValueField = "key";
+            ddlYear.DataBind();
+            ddlYear.Items.Insert(0, new ListItem("-Select-", "0"));
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindCountry()
+    {
+        try
+        {
+            dsCountry = objDbaccessCommon.GetCountry();
+            if (dsCountry != null)
+            {
+                ddlCountry.DataSource = dsCountry;
+                ddlCountry.DataTextField = "country_name";
+                ddlCountry.DataValueField = "country_id";
+                ddlCountry.DataBind();
+            }
+            ddlCountry.Items.Insert(0, new ListItem("-Select-", "0"));
+            ddlProvider.Items.Insert(0, new ListItem("-Select-", "0"));
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+    }
+    private void BindProvider()
+    {
+
+        try
+        {
+            objPropertyCommon.CountryId = Convert.ToInt32(ddlCountry.SelectedValue);
+            dsProvider = objDbaccessCommon.GetProviderDetailsByCountry(objPropertyCommon);
+            if (dsProvider != null)
+            {
+                ddlProvider.DataSource = dsProvider;
+                ddlProvider.DataTextField = "provider_name";
+                ddlProvider.DataValueField = "provider_id";
+                ddlProvider.DataBind();
+            }
+
+            ddlProvider.Items.Insert(0, new ListItem("-Select-", "0"));
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+
+    }
+    private void displayRevenueReport()
+    {
+
+        try
+        {
+            //get multiple month
+            StringBuilder sb = new StringBuilder(string.Empty);
+            sb.Append(hf_checkBoxValue.Value);
+            string month = sb.ToString();
+            string[] _month_arr = month.Split(',');
+            //end
+
+            if (month.Length > 0)
+            {
+
+                month = "(" + month + ")";
+            }
+            else
+            {
+                month = "0";
+            }
+
+            int years = Convert.ToInt32(ddlYear.SelectedValue);
+            int countryid = Convert.ToInt32(ddlCountry.SelectedValue);
+            int providerid = Convert.ToInt32(ddlProvider.SelectedValue);
+            objPropertyBilling.CountryId = countryid;
+            objPropertyBilling.ProviderId = providerid;
+            objPropertyBilling.Years = years;
+            objPropertyBilling.MonthsMultiple = month;
+            objPropertyBilling.PaymentTypeId = Convert.ToInt32(ddlPaymentType.SelectedValue);
+
+            dsBilling = objDbaccessBilling.GetRevenueReportsDetails(objPropertyBilling);
+            if (dsBilling != null)
+            {
+                grdRevenue.DataSource = dsBilling;
+                grdRevenue.DataBind();
+            }
+        }
+        catch (Exception ex)
+        {
+            ShowMessage("Red", ex.Message);
+
+        }
+
+    }
+    
+    protected void ShowMessage(string msgType, string Msg)
+    {
+        panelError.Visible = true;
+        lblErrorMsg.Text = Msg;
+        switch (msgType.ToUpper())
+        {
+            case "RED":
+                imgmsg.ImageUrl = "~/PiccellReport/images/Error_red.png";
+                lblErrorMsg.CssClass = "errorMsgRed";
+                break;
+            case "GREEN":
+                imgmsg.ImageUrl = "~/PiccellReport/images/Saved_green.png";
+                lblErrorMsg.CssClass = "errorMsgGreen";
+                break;
+        }
+    }
+    #endregion
+
+
+    #region events
+    protected void btnShow_Click(object sender, EventArgs e)
+    {
+       // mailGriddetails.Visible = false;
+
+        displayRevenueReport();
+        panelError.Visible = false;
+    }
+    protected void ddlCountry_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        if (ddlCountry.SelectedIndex > 0)
+        {
+            BindProvider();
+        }
+        else
+        {
+            ddlProvider.Items.Clear();
+            ddlProvider.Items.Insert(0, new ListItem("-Select-", "0"));
+        }
+    }
+    protected void grdRevenue_RowCommand(object sender, GridViewCommandEventArgs e)
+    {
+        try{
+            if (e.CommandName == "showContract")
+            {
+                Control ctrl = e.CommandSource as Control;
+                if (ctrl != null)
+                {
+                    int serialno = 0;
+                    GridViewRow row = ctrl.Parent.NamingContainer as GridViewRow;
+
+                    Label lblserialno = (Label)row.FindControl("lblserialno");
+
+                    if (ViewState["serialno"] != null)
+                    {
+                        serialno = Convert.ToInt32(ViewState["serialno"]);
+                    }
+                        ViewState["serialno"] = lblserialno.Text;
+                        Label lblInvoicemonth = (Label)row.FindControl("lblInvoicemonth");
+                        HiddenField hdnCountryid = (HiddenField)row.FindControl("hdnCountryid");
+                        HiddenField hdnProviderid = (HiddenField)row.FindControl("hdnProviderid");
+                        GridView grdRevenuedetails = (GridView)row.FindControl("grdRevenuedetails");
+                        HiddenField hdnpaymentTypeId = (HiddenField)row.FindControl("hdnpaymentTypeId");
+                        //revenue details bind
+
+                        DateTime dtinvocing = Convert.ToDateTime(lblInvoicemonth.Text);
+
+                        int year = dtinvocing.Year;
+                        int month = dtinvocing.Month;
+
+                        objPropertyBilling.CountryId = Convert.ToInt32(hdnCountryid.Value);
+                        objPropertyBilling.ProviderId = Convert.ToInt32(hdnProviderid.Value);
+                        objPropertyBilling.Years = year;
+                        objPropertyBilling.Months = month;
+                        objPropertyBilling.PaymentTypeId = Convert.ToInt32(hdnpaymentTypeId.Value);
+                        objPropertyBilling.LanguageId = Convert.ToInt32(ddlBranch.SelectedValue);
+                        if (serialno != Convert.ToInt32(lblserialno.Text))
+                        {
+                            dsBillingDetails = objDbaccessBilling.GetRevenueReportsBranchwiseDetails(objPropertyBilling);
+                            if (dsBillingDetails != null)
+                            {
+                                grdRevenuedetails.Visible = true;
+                                grdRevenuedetails.DataSource = dsBillingDetails;
+                                grdRevenuedetails.DataBind();
+                            }
+                        }
+
+                    //end bind revenue details
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+    protected void grdRevenue_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        try
+        {
+            if (e.Row.RowType == DataControlRowType.DataRow)
+            {
+
+                Label lblTotalContract1 = (Label)e.Row.FindControl("lblTotalContract1");
+                Label lblamounttotal = (Label)e.Row.FindControl("lblamounttotal");
+                Label lblamountusd = (Label)e.Row.FindControl("lblamountusd");
+                Label lblfees_amount = (Label)e.Row.FindControl("lblfees_amount");
+                Label lblnetworkAmount = (Label)e.Row.FindControl("lblnetworkAmount");
+                Label lblarpu = (Label)e.Row.FindControl("lblarpu");
+                Label lblInvoicemonth = (Label)e.Row.FindControl("lblInvoicemonth");
+                HiddenField hdnCountryid = (HiddenField)e.Row.FindControl("hdnCountryid");
+                HiddenField hdnProviderid = (HiddenField)e.Row.FindControl("hdnProviderid");
+
+                GridView grdRevenuedetails = (GridView)e.Row.FindControl("grdRevenuedetails");
+                grdRevenuedetails.Visible = false;
+                double totalcontract = 0;
+                double totalamount = 0;
+                double amountusd = 0;
+                double feesamount = 0;
+                double networkamount = 0;
+                int arpu = 0;
+
+
+
+                if (!string.IsNullOrEmpty(lblarpu.Text))
+                    arpu = Convert.ToInt32(lblarpu.Text);
+
+                if (!string.IsNullOrEmpty(lblamountusd.Text))
+                    amountusd = Convert.ToDouble(lblamountusd.Text);
+
+                if (!string.IsNullOrEmpty(lblfees_amount.Text))
+                    feesamount = Convert.ToDouble(lblfees_amount.Text);
+
+                if (!string.IsNullOrEmpty(lblTotalContract1.Text))
+                    totalcontract = Convert.ToDouble(lblTotalContract1.Text);
+
+                if (!string.IsNullOrEmpty(lblamounttotal.Text))
+                    totalamount = Convert.ToDouble(lblamounttotal.Text);
+
+                if (!string.IsNullOrEmpty(lblnetworkAmount.Text))
+                    networkamount = Convert.ToDouble(lblnetworkAmount.Text);
+
+                if (totalcontract > 0)
+                    arpu = Convert.ToInt32(totalamount / totalcontract);
+                lblarpu.Text = Convert.ToString(arpu);
+
+                totalamounts = totalamounts + totalamount;
+                totalamountusd = totalamountusd + amountusd;
+                totalfeesamount = totalfeesamount + feesamount;
+                totalcontracts = totalcontracts + totalcontract;
+                totalneworkamounts = totalneworkamounts + networkamount;
+
+
+
+           
+            }
+
+            if (e.Row.RowType == DataControlRowType.Footer)
+            {
+                Label lbltotalamountusd = (Label)e.Row.FindControl("lbltotalamountusd");
+                Label lbltotalfees_amount = (Label)e.Row.FindControl("lbltotalfees_amount");
+                Label lbltotaltotalamount = (Label)e.Row.FindControl("lbltotaltotalamount");
+                Label lbltotalContract = (Label)e.Row.FindControl("lbltotalContract");
+                Label lbltotalnetworkamount = (Label)e.Row.FindControl("lbltotalnetworkamount");
+                Label lbltotalarpu = (Label)e.Row.FindControl("lbltotalarpu");
+
+                lbltotaltotalamount.Text = Convert.ToString(Math.Round(totalamounts, 3));
+                lbltotalfees_amount.Text = Convert.ToString(Math.Round(totalfeesamount, 3));
+                lbltotalamountusd.Text = Convert.ToString(Math.Round(totalamountusd, 3));
+                lbltotalContract.Text = Convert.ToString(totalcontracts);
+                lbltotalnetworkamount.Text = Convert.ToString(Math.Round(totalneworkamounts, 3));
+                totalarpu = Convert.ToInt32(totalamounts / totalcontracts);
+                lbltotalarpu.Text = Convert.ToString(totalarpu);
+
+            }
+        }
+        catch (Exception ex)
+        {
+
+        }
+
+    }
+    protected void grdRevenuedetails_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+            Label lblarpudetails = (Label)e.Row.FindControl("lblarpudetails");
+            Label lblTotalContract = (Label)e.Row.FindControl("lblTotalContract");
+            Label lblamounttotal = (Label)e.Row.FindControl("lblamounttotal");
+
+
+            Label lblamountusd = (Label)e.Row.FindControl("lblamountusd");
+            Label lblamountfees = (Label)e.Row.FindControl("lblamountfees");
+
+
+
+            double totalcontract = 0;
+            double totalamount = 0;
+            double amountusd = 0;
+            double amountfees = 0;
+            int arpudetails = 0;
+
+
+
+            if (!string.IsNullOrEmpty(lblarpudetails.Text))
+                arpudetails = Convert.ToInt32(lblarpudetails.Text);
+
+            if (!string.IsNullOrEmpty(lblTotalContract.Text))
+                totalcontract = Convert.ToDouble(lblTotalContract.Text);
+
+            if (!string.IsNullOrEmpty(lblamounttotal.Text))
+                totalamount = Convert.ToDouble(lblamounttotal.Text);
+
+            if (!string.IsNullOrEmpty(lblamountusd.Text))
+                amountusd = Convert.ToDouble(lblamountusd.Text);
+
+            if (!string.IsNullOrEmpty(lblamountfees.Text))
+                amountfees = Convert.ToDouble(lblamountfees.Text);
+
+            arpudetails = Convert.ToInt32(totalamount / totalcontract);
+            lblarpudetails.Text = Convert.ToString(arpudetails);
+
+            totalcontractsdetails = totalcontractsdetails + totalcontract;
+            totalfeesamountdetails = totalfeesamountdetails + amountfees;
+            totalamountusddetails = totalamountusddetails + amountusd;
+            totalamountsdetails = totalamountsdetails + totalamount;
+           // totalarpudetails = totalarpudetails + arpudetails;
+
+        }
+        if (e.Row.RowType == DataControlRowType.Footer)
+        {
+            Label lbltotalamountusdDetails = (Label)e.Row.FindControl("lbltotalamountusdDetails");
+            Label lbltotalamountfeesDetails = (Label)e.Row.FindControl("lbltotalamountfeesDetails");
+            Label lbltotalamounttotalDetails = (Label)e.Row.FindControl("lbltotalamounttotalDetails");
+            Label lbltotalcontractDetails = (Label)e.Row.FindControl("lbltotalcontractDetails");
+            Label lbltotalarpudetails = (Label)e.Row.FindControl("lbltotalarpudetails");
+
+            lbltotalamounttotalDetails.Text = Convert.ToString(Math.Round(totalamountsdetails,3));
+            lbltotalamountfeesDetails.Text = Convert.ToString(Math.Round(totalfeesamountdetails,3));
+            lbltotalamountusdDetails.Text = Convert.ToString(Math.Round(totalamountusddetails,3));
+            lbltotalcontractDetails.Text = Convert.ToString(totalcontractsdetails);
+            totalarpudetails = Convert.ToInt32(totalamountsdetails / totalcontractsdetails);
+            lbltotalarpudetails.Text = Convert.ToString(totalarpudetails);
+
+        }
+
+
+    }
+    #endregion
+}

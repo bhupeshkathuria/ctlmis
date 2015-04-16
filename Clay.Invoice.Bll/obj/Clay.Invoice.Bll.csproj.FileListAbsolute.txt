@@ -1,0 +1,903 @@
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\Navneet\Latest Development\ERP_1.1 17-06-2010\ERP_1.1\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\Navneet\Latest Development\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+C:\Documents and Settings\Navneet Goyal\Desktop\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\ERP_1.1 22-06-2010 Back up on 14-12-2010 11.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 10.05\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 20-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 21-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 22-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 23-12-2010 19.28\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 24-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+E:\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\erp\ERP_1.1 22-06-2010 Back up on 25-12-2010 15.22\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 30-12-2010 18.00\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 5jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 7jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 10jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 11jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 12jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 17jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 22-06-2010 Back up on 18jan2010\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+C:\Documents and Settings\navneet goyal\Desktop\Next G\ERP_1.1 22-06-2010\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 19-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 21-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\ERP_1.1 22-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 15.15\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 25-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 29-01-2011 17.21\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 02-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\erp\ClayErp\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 04-02-2011 19.03 For create log file\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 07-02-2011 19.03 AfterChangeOVerlapping\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1248pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 08-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 09-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 10-02-2011 1900pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 12-02-2011 1600pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\ERP Clay\ERP_1.1 14-02-2011 1217pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 1230pm for_Work_On_LOGFile\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\ERP Clay\ERP Billing 16Feb2011\ERP_1.1 15-02-2011 19,00\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 18Feb2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 21Feb2011 Added Checks\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Backup Db Daily Basis\Latest ERP Billing\ERP Billing 25Feb2011 11.38am\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 02Mar-2011 6,00pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 07Mar-2011 2,30pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Reseller\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\Applying Class + Reseller\ERP Billing 08Mar-2011 600pm\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 08Mar-2011 600pm Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\ERP Piccell\22-03-2011\ERP Billing 23Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\ERP Piccell\latest\ERP Billing 25Mar-2011 1001am Latest\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 28Mar-2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing\ERP Billing 8-APR.2011 12171pm Latest ERP\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Latest ERP Billing\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\working\ERP Billing 21Apr_forInvoiceDiscountTotal\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\working\ERP Billing 19May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\working\ERP Billing 23May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\ERP Billing 24May2011 optimize Markup\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27May2011 optimizeApplycharge\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28May20111232 optimizeunbiled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30May2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 01Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 02Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 03Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 04Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 06Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 07Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 08Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 09Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 10Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 11Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 21Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 23Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27Jun2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30July2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12August2011 SemiAutomated\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 19August2011MidToMid\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 23August2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 3sep2011consider_old_records\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 6Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 8Sep2011UploadOldInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22 Sep2011 ChangingAppDis\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 27 Sep2011 ChangingUnbilled\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28 Sep2011 ChangingReInvoice\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 30 Sep2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 2Oct2011 oldinvoicecdr\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 6Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18Oct2011 UnbilldChange\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 19Oct2011AddMontYear\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011updateinvoicedate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 22Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 31Oct2011DeldateTodepdate\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16Nov2011\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17NovInvoiceChanged\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 17NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 28NovRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12DecRunning\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 13DecRunningSetupFees\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunningfreeze11,16AM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 14DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 15DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 20DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 24DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 26DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 29DecRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 3JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 5JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 7JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 12JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 16JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 18JanRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 1FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 7FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\Clay.Invoice.Bll.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.dll
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\bin\Debug\dal.pdb
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.dll
+D:\deepak\ERP Billing\Working\ERP Billing 9FebRunning18,17PM\ERP_1.1 22-01-2011\Business Logic Layer\CLAYINVOICE\Clay.Invoice.Bll\obj\Debug\Clay.Invoice.Bll.pdb

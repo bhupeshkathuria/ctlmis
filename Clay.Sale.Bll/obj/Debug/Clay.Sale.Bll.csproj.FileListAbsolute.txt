@@ -1,0 +1,129 @@
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\Project VS 2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReportWeb 24-03-2012\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\JayApllication\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\dal.dll
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\bin\Debug\dal.pdb
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+D:\VS2010\ClayBillingReportWeb\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\dal.dll
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\dal.pdb
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+C:\Documents and Settings\jay.vats\Desktop\Chawla Tarun\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\dal.dll
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\bin\Debug\dal.pdb
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+D:\JayApllication\ClayBillingReportWeb 23-07-2012\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.dll
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.pdb
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+D:\JayApllication\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\MySql.Data.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.pdb
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+D:\WebApp\VS2010\BillingReport\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.dll
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.pdb
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+C:\Documents and Settings\atul.kumar\Desktop\ClayBillingReportWeb_New\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\Project VS 2010\ClayBillingReport23-07-2013\ClayBillingReportWeb_New 23-08-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_15oct2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Tarun\ClayBilling\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\dal.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\MySql.Data.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\bin\Debug\dal.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.dll
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\bin\Debug\Clay.Sale.Bll.pdb
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\bin\Debug\dal.dll
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\bin\Debug\dal.pdb
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.dll
+E:\SVN Project\CTLMIS\Clay.Sale.Bll\obj\Debug\Clay.Sale.Bll.pdb

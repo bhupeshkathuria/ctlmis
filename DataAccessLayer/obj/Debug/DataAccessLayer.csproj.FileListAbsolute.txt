@@ -1,0 +1,41 @@
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Surinder Rawat\Current Project\reseller\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Surinder Rawat\Current Project\reseller\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Surinder Rawat\Current Project\reseller\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Surinder Rawat\Current Project\reseller\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Surinder Rawat\Current Project\reseller\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Surinder Rawat\Current Project\SalesReport\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Surinder Rawat\Current Project\SalesReport\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Surinder Rawat\Current Project\SalesReport\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Surinder Rawat\Current Project\SalesReport\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Surinder Rawat\Current Project\SalesReport\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\DataAccessLayer\bin\Debug\MySql.Data.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\SVN Project\CTLMIS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\SVN Project\CTLMIS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\SVN Project\CTLMIS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\SVN Project\CTLMIS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\SVN Project\CTLMIS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

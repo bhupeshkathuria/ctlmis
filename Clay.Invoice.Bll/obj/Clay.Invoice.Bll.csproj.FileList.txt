@@ -1,0 +1,7 @@
+bin\Debug\Clay.Invoice.Bll.dll
+bin\Debug\Clay.Invoice.Bll.pdb
+bin\Debug\dal.dll
+bin\Debug\dal.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Clay.Invoice.Bll.dll
+obj\Debug\Clay.Invoice.Bll.pdb

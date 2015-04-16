@@ -1,0 +1,65 @@
+﻿body {
+}
+
+.drop
+    {
+    color:#000;
+    font-family:Verdana;
+    border:normal 1px #d9d9d9;
+    padding:3px;
+    font-size:12px;
+    }
+.textbtn
+{
+	background: url('../Images/bg_btn.gif') repeat-x;
+	padding: 3px 10px;
+	border: 1px solid #a1a1a1;
+	color: #333;
+	font-size: 11px;
+	font-weight:bold;
+}
+
+
+img{border:0}
+td, th, h1, h2, h3, h4, h5, h6,{ padding:0; margin:0}
+.clear{ clear:both}
+.outer{ width:99%; height:auto; margin:0 auto; border:1px solid #b8b8b8; border-collapse:collapse}
+.header-area{ width:100%; height:70px; background:url(../Images/head-rpt.jpg) repeat-x; padding:0px 0 9px 0px; position:relative}
+.logo-area
+{
+	width: 105px;
+	height: 80px;
+	background: url(../Images/logo.jpg) no-repeat;
+	margin-left:2px
+}
+
+.nav-area{ width:88.5%; height:25px; float:left; background:#e0e2df}
+.nav-area ul{ padding:0; margin:0}
+.nav-area li{ height:25px; list-style:none; display:inline; background:url(../Images/navi-part.jpg) no-repeat  right; padding:0 8px 0 8px; float: left; position: relative}
+.nav-area a{ font: normal 11px Verdana; text-decoration:none; color:#333333;line-height:24px}
+.nav-area a:hover{ font: normal 11px Verdana; text-decoration:none; color:#000;line-height:24px}
+.nav-area li ul{  display: none; position: absolute; top: 25px; left: 0; width: 155px; padding: 0 0 5px; background-color:#ccc}
+.nav-area li ul a{ font:normal 11px Verdana; text-decoration:none; line-height:30px; display:block}
+.nav-area li ul a:hover{ font:normal 11px Verdana; text-decoration:none; line-height:30px; width:145px; margin-right:-20px; 
+                         padding-left:10px; margin-left:-8px; color:#f4f4f4} 
+                         
+                         .table-area{ width:780px; height:auto; margin:15px auto;}
+.table-area table{ width:100%; height:auto; border:1px solid #e6e6e6; text-align:left; line-height:18px;border-collapse:collapse;}
+.table-area th{ background:url(../images/rpt1.jpg) repeat-x; color:#666; font:bold 11px Verdana; height:20px;}
+.table-area td{ background:#fbfbfb; height:20px; padding-left:10px; border:1px solid #e1e1e1; border-collapse:collapse; font:normal 11px Verdana; color:#6c6c6c; padding:0px 0 0px 5px;}
+.table-area td input{ font:normal 11px Verdana; color:#6c6c6c; padding:1px 2px 3px 2px; border:1px solid #d3d3d3;border-radius:4px; background:url(../images/patt.jpg) repeat; }
+.table-area td textarea{ font:normal 11px Verdana; color:#6c6c6c; height:60px !important; width:250px; padding:1px 2px 3px 2px; border:1px solid #d3d3d3;border-radius:4px; background:url(../images/patt.jpg) repeat; margin:5px 0 }
+.table-area td select{ font:normal 11px Verdana; color:#6c6c6c; height:24px !important; padding:2px 2px 3px 2px; border:1px solid #d3d3d3;border-radius:4px 0 0 4px; background:url(../images/patt.jpg) repeat; }
+
+.table-area td input[type="checkbox"]{ font:normal 11px Verdana; color:#6c6c6c; height:15px !important; width:15px; border:1px solid #d3d3d3; margin-top:10px;}
+.table-area .g-btn{ width:60px !important; height:24px !important; float:left; background:#ccc; margin:5px 0; cursor:pointer}
+.table-area .g-btn1{ width:60px !important; height:20px !important; float:left; background:#ccc; margin:5px 0; cursor:pointer}
+.table-area table a{ font:normal 11px Verdana; text-decoration:none; color:#FF0000;}
+.table-area table a:hover{ font:normal 11px Verdana; text-decoration:underline; color:#FF0000;}
+.table-area td table{ border:none;}
+.tbl-grd { border:1px solid #ccc;}
+.tbl-grd table{ border:1px solid #ccc;}
+.tbl-grd th{ border:none; background:#ebebeb}
+.tbl-grd td{ border:none; border-top:1px solid #ccc; background:#f3f3f3}
+.tbl-grd td select{ font:normal 11px Verdana; color:#6c6c6c; height:24px !important; padding:2px 2px 3px 2px; border:1px solid #d3d3d3;border-radius:4px 0 0 4px; background:url(../images/patt.jpg) repeat; }
+.redtext{color:#ff0000 !important;}

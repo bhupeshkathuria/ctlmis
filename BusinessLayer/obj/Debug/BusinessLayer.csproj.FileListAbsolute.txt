@@ -1,0 +1,73 @@
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\bin\Debug\BLCommon.dll
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\bin\Debug\BLCommon.pdb
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\CTDLIT008\Documents\Visual Studio 2010\Projects\Reseller\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\bin\Debug\BLCommon.dll
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\bin\Debug\BLCommon.pdb
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Surinder Rawat\Current Project\reseller\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\bin\Debug\BLCommon.dll
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\bin\Debug\BLCommon.pdb
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Surinder Rawat\Current Project\SalesReport\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BLCommon.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BLCommon.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BLCommon.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\BLCommon.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_New 15-10-2013\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BLCommon.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BLCommon.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\GD\Clay_Data\Sonu_New\Live Project\Vi2010\Claybilling_1Dec2013\Working\ClayBillingReportWeb_NoOTP\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BLCommon.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\MySql.Data.dll
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\BLCommon.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Gagan\CTLMIS\ClayBillingReportWeb_NoOTP\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\SVN Project\CTLMIS\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\SVN Project\CTLMIS\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\SVN Project\CTLMIS\BusinessLayer\bin\Debug\BLCommon.dll
+E:\SVN Project\CTLMIS\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\SVN Project\CTLMIS\BusinessLayer\bin\Debug\BLCommon.pdb
+E:\SVN Project\CTLMIS\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\SVN Project\CTLMIS\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\SVN Project\CTLMIS\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\SVN Project\CTLMIS\BusinessLayer\obj\Debug\BusinessLayer.pdb
